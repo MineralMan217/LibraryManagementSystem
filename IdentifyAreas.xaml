@@ -1,0 +1,76 @@
+﻿<Window x:Class="MockOne.IdentifyAreas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MockOne"
+        mc:Ignorable="d"
+        Title="IDENTIFYING AREAS" Height="450" Width="800" >
+    <Window.Background>
+        <ImageBrush ImageSource="/resources/shelf.jpeg" Opacity="0.5"/>
+    </Window.Background>
+    <Grid>
+        <Button x:Name="backButton" Width="51" Click="backButton_Click" HorizontalAlignment="Left" Margin="-2,20,0,347" >
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+            <Button.Content>
+                <Image  x:Name="backImg" Source="\resources\back-button.png"  Stretch="Uniform" Height="44" Width="39" RenderTransformOrigin="0.614,0.5"/>
+            </Button.Content>
+        </Button>
+        <Label x:Name="matchLabel" Content="Match the Call Numbers to their correct descriptions" FontSize="13px" Visibility="Hidden"  Foreground="White" HorizontalAlignment="Left" Margin="94,61,0,0" VerticalAlignment="Top" Height="26" Width="325"/>
+
+
+        <TextBlock Grid.Row="0" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,20" Foreground="White">Identifying Areas</TextBlock>
+
+
+        <ListBox x:Name="callNumberListBox" Margin="204,107,398,60" SelectionMode="Multiple" RenderTransformOrigin="0.5,0.5" Foreground="White" BorderBrush="#FFFF006F">
+            <ListBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF0E4B42" Offset="1"/>
+                </LinearGradientBrush>
+            </ListBox.Background>
+            <ListBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.015"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ListBox.RenderTransform>
+            
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding}" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <ListBox x:Name="descriptionListBox" Margin="415,109,10,60" SelectionMode="Multiple" BorderBrush="#FFFF8303" Foreground="White">
+            <ListBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF4B2867" Offset="1"/>
+                </LinearGradientBrush>
+            </ListBox.Background>
+        
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding}" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button x:Name="startButton" Content="START" Foreground="GhostWhite" FontSize="16px" FontWeight="Bold" FontFamily="Times New Roman" Background="#330000" BorderBrush="#b30000" HorizontalAlignment="Left" Margin="24,109,0,0" VerticalAlignment="Top" Height="50" Width="120" Click="startBtn_Click"/>
+        <Button x:Name="matchButton" Content="MATCH" Foreground="GhostWhite" FontSize="16px" FontWeight="Bold" FontFamily="Times New Roman" Background="#092917" BorderBrush="#25a35a" HorizontalAlignment="Left" Margin="24,242,0,0" VerticalAlignment="Top" Height="50" Width="120" Click="matchButton_Click" Visibility="Hidden" />
+        <Button x:Name="quitButton" Content="QUIT" Foreground="GhostWhite" FontSize="16px" FontWeight="Bold" FontFamily="Times New Roman" Background="#812953" BorderBrush="#2a0010" HorizontalAlignment="Left" Margin="24,310,0,0" VerticalAlignment="Top" Height="50" Width="120" Click="quitButton_Click" Visibility="Hidden" />
+        <Label x:Name="timerLabel" Content="TIME LEFT: 120 seconds" Foreground="GhostWhite" FontWeight="ExtraBold" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="534,61,0,0" Width="178"/>
+        <Label x:Name="pointsLabel" Content="POINTS: 0" Foreground="GhostWhite" FontWeight="ExtraBold" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,41,174,0"/>
+
+
+    </Grid>
+</Window>

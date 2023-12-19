@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="FindCallNumbers.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Home.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="IdentifyAreas.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ReplaceBooks.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Rules_Find.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Rules_Identify.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Rules_Replace.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="FindCallNumbers.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Home.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="IdentifyAreas.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ReplaceBooks.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Rules_Find.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Rules_Identify.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Rules_Replace.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

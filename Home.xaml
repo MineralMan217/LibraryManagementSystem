@@ -1,0 +1,130 @@
+﻿<Window x:Class="MockOne.Home"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions"
+        xmlns:ee="http://schemas.microsoft.com/expression/2010/effects"
+        xmlns:local="clr-namespace:MockOne"
+        mc:Ignorable="d"
+        Title="Home" Height="450" Width="800"  Loaded="Window_Loaded">
+    <Window.Background>
+        <ImageBrush ImageSource="/resources/home2.jpeg" Opacity="0.7"/>
+    </Window.Background>
+    <Window.Resources>
+        <Style x:Key="RoundButtonStyle" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border" Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="1"
+                                CornerRadius="25" Padding="5">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="maroon"/>
+                                <Setter TargetName="border" Property="BorderBrush" Value="goldenrod"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <!--<Label x:Name="ChooseLbl" Content="What task do you feel like doing today? " Foreground="White" FontSize="18px" FontStyle="Italic" FontWeight="Bold" Margin="239,108,216,292" RenderTransformOrigin="0.5,0.5" /> -->
+
+        <Border BorderThickness="1"  Background="#33001a" HorizontalAlignment="Center" Height="89" VerticalAlignment="Top" Width="800" Opacity="0.9" Margin="0,21,0,0" >
+            <Label x:Name="HeaderLbl" Content="BOOK DUES: DEWEY DECIMAL SYSTEM" Foreground="White" FontSize="26px" FontWeight="ExtraBold" FontFamily="Times New Roman" Margin="0,0,212,0"/>
+        </Border>
+
+        <Button x:Name="replaceButton" Width="163" Click="replaceButton_Click" HorizontalAlignment="Left" Margin="81,184,0,105" Style="{StaticResource RoundButtonStyle}">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+            <Button.Content>
+                <Image  x:Name="replaceImg"  Source="resources\replace-books.png" Stretch="Uniform" Height="132" Width="159"/>
+            </Button.Content>
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard RepeatBehavior="Forever">
+                            <DoubleAnimation
+                        Storyboard.TargetProperty="(Button.RenderTransform).(TranslateTransform.Y)"
+                        From="0" To="-10" Duration="0:0:1" AutoReverse="True"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+            <Button.RenderTransform>
+                <TranslateTransform/>
+            </Button.RenderTransform>
+        </Button>
+        <Label x:Name="replaceBooksLbl" Content="REPLACING BOOKS" FontSize="15px" Foreground="White" FontStyle="Italic" FontWeight="DemiBold" HorizontalAlignment="Left" Margin="93,325,0,0" VerticalAlignment="Top" Width="151"/>
+
+        <Button x:Name="identifyButton" Width="148" Click="identifyButton_Click" HorizontalAlignment="Center" Margin="0,196,0,58" Style="{StaticResource RoundButtonStyle}">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+            <Button.Content>
+                <Image  x:Name="identifyImg" Source="\resources\identify-areas.png" Stretch="Uniform" Height="147" Width="138"/>
+            </Button.Content>
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard RepeatBehavior="Forever">
+                            <DoubleAnimation
+                        Storyboard.TargetProperty="(Button.RenderTransform).(TranslateTransform.Y)"
+                        From="0" To="-10" Duration="0:0:1" AutoReverse="True"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+            <Button.RenderTransform>
+                <TranslateTransform/>
+            </Button.RenderTransform>
+        </Button>
+        <Label x:Name="identifyAreasLbl" Content="IDENTIFYING AREAS" FontSize="15px" Foreground="White" FontStyle="Italic" FontWeight="DemiBold" HorizontalAlignment="Center" Margin="0,361,0,0" VerticalAlignment="Top"/>
+
+
+        <Image HorizontalAlignment="Left" Height="100" Margin="669,66,0,0" VerticalAlignment="Top" Width="100" Source="resources\library-icon.png" Opacity="0.8"/>
+        <Button x:Name="findCallButton" Width="182" Click="findCallButton_Click" HorizontalAlignment="Left" Margin="556,179,0,100" Style="{StaticResource RoundButtonStyle}">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+            <Button.Content>
+                <Image  x:Name="findCallImg" Source="\resources\find-call-numbers.png" Stretch="Uniform" Height="151" Width="156"/>
+            </Button.Content>
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard RepeatBehavior="Forever">
+                            <DoubleAnimation
+                        Storyboard.TargetProperty="(Button.RenderTransform).(TranslateTransform.Y)"
+                        From="0" To="-10" Duration="0:0:1" AutoReverse="True"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+            <Button.RenderTransform>
+                <TranslateTransform/>
+            </Button.RenderTransform>
+        </Button>
+        <Label x:Name="findCallLbl" Content="FINDING CALL NUMBERS" FontSize="15px" Foreground="White" FontStyle="Italic" FontWeight="DemiBold" HorizontalAlignment="Left" Margin="556,325,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

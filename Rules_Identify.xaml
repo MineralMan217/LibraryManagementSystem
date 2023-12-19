@@ -1,0 +1,93 @@
+﻿<Window x:Class="MockOne.Rules_Identify"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MockOne"
+        mc:Ignorable="d"
+        Title="RULES FOR IDENTIFYING AREAS" Height="450" Width="800" Loaded="Window_Loaded">
+    <Window.Background>
+        <ImageBrush ImageSource="/resources/shelf.jpeg" Opacity="0.3"/>
+    </Window.Background>
+    <Window.Resources>
+        <Style x:Key="RoundButtonStyle" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border" Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="1"
+                                CornerRadius="25" Padding="5">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#330000"/>
+                                <Setter TargetName="border" Property="BorderBrush" Value="#b30000"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Button x:Name="backButton" Width="51" Click="backButton_Click" HorizontalAlignment="Left" Margin="0,4,0,368" >
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+            <Button.Content>
+                <Image  x:Name="backImg" Source="\resources\back-button.png"  Stretch="Uniform" Height="34" Width="42" RenderTransformOrigin="0.614,0.5"/>
+            </Button.Content>
+        </Button>
+        <Label x:Name="rulesLabel" Content="Instructions:" FontSize="19px" Foreground="White" FontWeight="Bold" HorizontalAlignment="Left" Margin="56,30,0,0" VerticalAlignment="Top" Height="36" Width="186"/>
+        <Label x:Name="rule1Label" Content="1. Press *START* to start the game." FontSize="13px" Foreground="White" FontWeight="Bold" HorizontalAlignment="Left" Margin="34,78,0,0" VerticalAlignment="Top" Height="26" Width="557"/>
+        <TextBlock x:Name="rule1Description" Text=" (this will start the game timer, and make the *MATCH* and *QUIT* buttons visible)" FontSize="13px" Foreground="SkyBlue" FontWeight="Bold" HorizontalAlignment="Left" Margin="34,97,0,0" VerticalAlignment="Top" Height="19" Width="669"/>
+
+        <Label x:Name="rule2Label" Content="2. Match the CALL NUMBER to the right DESCRIPTION by clicking on the call number, followed by its correct description" FontSize="13px" Foreground="White" FontWeight="Bold" HorizontalAlignment="Left" Margin="34,126,0,0" VerticalAlignment="Top" Height="25" Width="766"/>
+        <TextBlock x:Name="rule2Description" Text=" (do this for all FOUR call number options)" FontSize="13px" Foreground="SkyBlue" FontWeight="Bold" HorizontalAlignment="Left" Margin="34,151,0,0" VerticalAlignment="Top" Height="17" Width="681"/>
+
+        <Label x:Name="rule3Label" Content="3. Press *MATCH* to check if your answers are correct." FontSize="13px" Foreground="White" FontWeight="Bold" HorizontalAlignment="Left" Margin="34,180,0,0" VerticalAlignment="Top" Height="25" Width="656"/>
+        <TextBlock x:Name="rule3Description" Text=" (only press after matching ALL FOUR CALL NUMBERS TO THEIR APPRORPIATE DESCRIPTIONS, to check your answer)" FontSize="13px" Foreground="SkyBlue" FontWeight="Bold" HorizontalAlignment="Left" Margin="34,203,0,0" VerticalAlignment="Top" Height="17" Width="822"/>
+
+        <Label x:Name="rule4Label" Content="4. If you wish to to quit, simply press the *QUIT* button" FontSize="13px" Foreground="White" FontWeight="Bold" HorizontalAlignment="Left" Margin="34,228,0,0" VerticalAlignment="Top" Height="25" Width="656"/>
+        <TextBlock x:Name="rule4Description" Text=" (this will take you back to the Home Window)" FontSize="13px" Foreground="SkyBlue" FontWeight="Bold" HorizontalAlignment="Left" Margin="34,253,0,0" VerticalAlignment="Top" Height="22" Width="621"/>
+        <TextBlock x:Name="rule5Description" Text=" (MATCH THE COLUMS GAME)" FontSize="13px" Foreground="Khaki" FontWeight="Bold" HorizontalAlignment="Left" Margin="294,28,0,0" VerticalAlignment="Top" Height="28" Width="189"/>
+
+
+        <TextBlock x:Name="generalRule1" Text="*TIMER (120 SECONDS) STARTS AS SOON AS YOU PRESS START*" FontSize="12px" Foreground="Khaki" FontWeight="Bold" HorizontalAlignment="Left" Margin="4,315,0,0" VerticalAlignment="Top" Height="18" Width="384"/>
+        <TextBlock x:Name="generalRule2" Text="*WITH 12 POINTS  POSSIBLE, YOU GET +3 POINTS FOR EACH CALL NUMBER MATCHED CORRECTLY*" FontSize="12px" Foreground="Khaki" FontWeight="Bold" HorizontalAlignment="Left" Margin="4,333,0,0" VerticalAlignment="Top" Height="18" Width="568"/>
+        <TextBlock x:Name="generalRule3" Text="*NEXT QUESTION (COLUMN SET) WILL ONLY GENERATE IF ANSWER IS CORRECT*" FontSize="12px" Foreground="Khaki" FontWeight="Bold" HorizontalAlignment="Left" Margin="4,350,0,0" VerticalAlignment="Top" Height="18" Width="466" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.03"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+
+
+        <Button x:Name="playNowBtn" Content="PLAY NOW" HorizontalAlignment="Left" VerticalAlignment="Top" Width="174" Height="55"
+                Opacity="0" Background="Black" Foreground="White" FontSize="16" Style="{StaticResource RoundButtonStyle}" Click="playNowBtn_Click" Margin="594,324,0,0">
+            <Button.RenderTransform>
+                <TranslateTransform/>
+            </Button.RenderTransform>
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard RepeatBehavior="Forever">
+                            <DoubleAnimation Storyboard.TargetProperty="Opacity" From="0" To="1" Duration="0:0:1" />
+                            <DoubleAnimation Storyboard.TargetProperty="(Button.RenderTransform).(TranslateTransform.Y)" From="0" To="-28" Duration="0:0:0.5" AutoReverse="True" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+        </Button>
+
+    </Grid>
+</Window>

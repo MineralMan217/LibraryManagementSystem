@@ -1,0 +1,3575 @@
+[
+  {
+    "class": "000 - Computer Science, Information and General Works",
+    "subclass": [
+      {
+        "class": "000 Generalities",
+        "subclass": []
+      },
+      {
+        "class": "001 Knowledge",
+        "subclass": []
+      },
+      {
+        "class": "002 The book",
+        "subclass": []
+      },
+      {
+        "class": "003 Systems",
+        "subclass": []
+      },
+      {
+        "class": "004 Data processing & computer science",
+        "subclass": []
+      },
+      {
+        "class": "005 Computer programming, programs & data",
+        "subclass": []
+      },
+      {
+        "class": "006 Special computer methods",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "010 Bibliography",
+    "subclass": [
+      {
+        "class": "011 Bibliographies",
+        "subclass": []
+      },
+      {
+        "class": "012 Bibliographies of individuals",
+        "subclass": []
+      },
+      {
+        "class": "013 Bibliographies of works by specific classes of authors",
+        "subclass": []
+      },
+      {
+        "class": "014 Bibliographies of anonymous & pseudonymous works",
+        "subclass": []
+      },
+      {
+        "class": "015 Bibliographies of works from specific places",
+        "subclass": []
+      },
+      {
+        "class": "016 Bibliographies of works on specific subjects",
+        "subclass": []
+      },
+      {
+        "class": "017 General subject catalogs",
+        "subclass": []
+      },
+      {
+        "class": "018 Catalogs arranged by author, date, etc.",
+        "subclass": []
+      },
+      {
+        "class": "019 Dictionary catalogs",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "020 Library & information sciences",
+    "subclass": [
+      {
+        "class": "021 Library relationships",
+        "subclass": []
+      },
+      {
+        "class": "022 Administration of physical plant",
+        "subclass": []
+      },
+      {
+        "class": "023 Personnel management",
+        "subclass": []
+      },
+      {
+        "class": "025 Library operations",
+        "subclass": []
+      },
+      {
+        "class": "026 Libraries for specific subjects",
+        "subclass": []
+      },
+      {
+        "class": "027 General libraries",
+        "subclass": []
+      },
+      {
+        "class": "028 Reading & use of other information media",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "030 General encyclopedic works",
+    "subclass": [
+      {
+        "class": "031 Encyclopedias in American English",
+        "subclass": []
+      },
+      {
+        "class": "032 Encyclopedias in English",
+        "subclass": []
+      },
+      {
+        "class": "033 In other Germanic languages",
+        "subclass": []
+      },
+      {
+        "class": "034 Encyclopedias in French, Occitan & Catalan",
+        "subclass": []
+      },
+      {
+        "class": "035 In Italian, Romanian & related languages",
+        "subclass": []
+      },
+      {
+        "class": "036 Encyclopedias in Spanish & Portuguese",
+        "subclass": []
+      },
+      {
+        "class": "037 Encyclopedias in Slavic languages",
+        "subclass": []
+      },
+      {
+        "class": "038 Encyclopedias in Scandinavian languages",
+        "subclass": []
+      },
+      {
+        "class": "039 Encyclopedias in other languages",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "050 Magazines, journals & serials",
+    "subclass": [
+      {
+        "class": "051 Serial publications in American English",
+        "subclass": []
+      },
+      {
+        "class": "052 Serial publications in English",
+        "subclass": []
+      },
+      {
+        "class": "053 Serial publications in other Germanic languages",
+        "subclass": []
+      },
+      {
+        "class": "054 Serial publications in French, Occitan & Catalan",
+        "subclass": []
+      },
+      {
+        "class": "055 In Italian, Romanian & related languages",
+        "subclass": []
+      },
+      {
+        "class": "056 Serial publications in Spanish & Portuguese",
+        "subclass": []
+      },
+      {
+        "class": "057 Serial publications in Slavic languages",
+        "subclass": []
+      },
+      {
+        "class": "058 Serial publications in Scandinavian languages",
+        "subclass": []
+      },
+      {
+        "class": "059 Serial publications in other languages",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "060 General organizations & museology",
+    "subclass": [
+      {
+        "class": "061 Organizations in American English",
+        "subclass": []
+      },
+      {
+        "class": "062 Organizations in English",
+        "subclass": []
+      },
+      {
+        "class": "063 Organizations in other Germanic languages",
+        "subclass": []
+      },
+      {
+        "class": "064 Organizations in French, Occitan & Catalan",
+        "subclass": []
+      },
+      {
+        "class": "065 In Italian, Romanian & related languages",
+        "subclass": []
+      },
+      {
+        "class": "066 Organizations in Spanish & Portuguese",
+        "subclass": []
+      },
+      {
+        "class": "067 Organizations in Slavic languages",
+        "subclass": []
+      },
+      {
+        "class": "068 Organizations in Scandinavian languages",
+        "subclass": []
+      },
+      {
+        "class": "069 Organizations in other languages",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "070 News media, journalism & publishing",
+    "subclass": [
+      {
+        "class": "071 Newspapers in North American English",
+        "subclass": []
+      },
+      {
+        "class": "072 Newspapers in English",
+        "subclass": []
+      },
+      {
+        "class": "073 Newspapers in other Germanic languages",
+        "subclass": []
+      },
+      {
+        "class": "074 Newspapers in French, Occitan & Catalan",
+        "subclass": []
+      },
+      {
+        "class": "075 In Italian, Romanian & related languages",
+        "subclass": []
+      },
+      {
+        "class": "076 Newspapers in Spanish & Portuguese",
+        "subclass": []
+      },
+      {
+        "class": "077 Newspapers in Slavic languages",
+        "subclass": []
+      },
+      {
+        "class": "078 Newspapers in Scandinavian languages",
+        "subclass": []
+      },
+      {
+        "class": "079 Newspapers in other languages",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "080 General collections",
+    "subclass": [
+      {
+        "class": "081 Collections in American English",
+        "subclass": []
+      },
+      {
+        "class": "082 Collections in English",
+        "subclass": []
+      },
+      {
+        "class": "083 Collections in other Germanic languages",
+        "subclass": []
+      },
+      {
+        "class": "084 Collections in French, Occitan & Catalan",
+        "subclass": []
+      },
+      {
+        "class": "085 In Italian, Romanian & related languages",
+        "subclass": []
+      },
+      {
+        "class": "086 Collections in Spanish & Portuguese",
+        "subclass": []
+      },
+      {
+        "class": "087 Collections in Slavic languages",
+        "subclass": []
+      },
+      {
+        "class": "088 Collections in Scandinavian languages",
+        "subclass": []
+      },
+      {
+        "class": "089 Collections in other languages",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "090 Manuscripts & rare books",
+    "subclass": [
+      {
+        "class": "091 Manuscripts in American English",
+        "subclass": []
+      },
+      {
+        "class": "092 Manuscripts in English",
+        "subclass": []
+      },
+      {
+        "class": "093 Manuscripts in other Germanic languages",
+        "subclass": []
+      },
+      {
+        "class": "094 Manuscripts in French, Occitan & Catalan",
+        "subclass": []
+      },
+      {
+        "class": "095 In Italian, Romanian & related languages",
+        "subclass": []
+      },
+      {
+        "class": "096 Manuscripts in Spanish & Portuguese",
+        "subclass": []
+      },
+      {
+        "class": "097 Manuscripts in Slavic languages",
+        "subclass": []
+      },
+      {
+        "class": "098 Manuscripts in Scandinavian languages",
+        "subclass": []
+      },
+      {
+        "class": "099 Manuscripts in other languages",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "100 Philosophy & psychology",
+    "subclass": [
+      {
+        "class": "101 Theory of philosophy",
+        "subclass": []
+      },
+      {
+        "class": "102 Miscellany of philosophy",
+        "subclass": []
+      },
+      {
+        "class": "103 Dictionaries & encyclopedias in philosophy",
+        "subclass": []
+      },
+
+      {
+        "class": "105 Serial publications in philosophy",
+        "subclass": []
+      },
+      {
+        "class": "106 Organizations & management in philosophy",
+        "subclass": []
+      },
+      {
+        "class": "107 Education, research & related topics in philosophy",
+        "subclass": []
+      },
+      {
+        "class": "108 Groups of people in philosophy",
+        "subclass": []
+      },
+      {
+        "class": "109 Historical & collected persons treatment in philosophy",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "110 Metaphysics",
+    "subclass": [
+      {
+        "class": "111 Ontology",
+        "subclass": []
+      },
+      {
+        "class": "113 Cosmology",
+        "subclass": []
+      },
+      {
+        "class": "114 Space",
+        "subclass": []
+      },
+      {
+        "class": "115 Time",
+        "subclass": []
+      },
+      {
+        "class": "116 Change",
+        "subclass": []
+      },
+      {
+        "class": "117 Structure",
+        "subclass": []
+      },
+      {
+        "class": "118 Force & energy",
+        "subclass": []
+      },
+      {
+        "class": "119 Number & quantity",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "120 Epistemology",
+    "subclass": [
+      {
+        "class": "121 Epistemology in American English",
+        "subclass": []
+      },
+      {
+        "class": "122 Epistemology in English",
+        "subclass": []
+      },
+      {
+        "class": "123 Epistemology in other Germanic languages",
+        "subclass": []
+      },
+      {
+        "class": "124 Epistemology in French, Occitan & Catalan",
+        "subclass": []
+      },
+      {
+        "class": "125 In Italian, Romanian & related languages",
+        "subclass": []
+      },
+      {
+        "class": "126 Epistemology in Spanish & Portuguese",
+        "subclass": []
+      },
+      {
+        "class": "127 Epistemology in Slavic languages",
+        "subclass": []
+      },
+      {
+        "class": "128 Epistemology in Scandinavian languages",
+        "subclass": []
+      },
+      {
+        "class": "129 Epistemology in other languages",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "130 Paranormal phenomena",
+    "subclass": [
+      {
+        "class": "131 Paranormal phenomena in American English",
+        "subclass": []
+      },
+      {
+        "class": "132 Paranormal phenomena in English",
+        "subclass": []
+      },
+      {
+        "class": "133 Paranormal phenomena in other Germanic languages",
+        "subclass": []
+      },
+      {
+        "class": "134 Paranormal phenomena in French, Occitan & Catalan",
+        "subclass": []
+      },
+      {
+        "class": "135 In Italian, Romanian & related languages",
+        "subclass": []
+      },
+      {
+        "class": "136 Paranormal phenomena in Spanish & Portuguese",
+        "subclass": []
+      },
+      {
+        "class": "137 Paranormal phenomena in Slavic languages",
+        "subclass": []
+      },
+      {
+        "class": "138 Paranormal phenomena in Scandinavian languages",
+        "subclass": []
+      },
+      {
+        "class": "139 Paranormal phenomena in other languages",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "140 Specific philosophical schools",
+    "subclass": [
+      {
+        "class": "141 Idealism & related systems",
+        "subclass": []
+      },
+      {
+        "class": "142 Critical philosophy",
+        "subclass": []
+      },
+      {
+        "class": "143 Bergsonism & intuitionism",
+        "subclass": []
+      },
+      {
+        "class": "144 Humanism & related systems",
+        "subclass": []
+      },
+      {
+        "class": "145 Sensationalism",
+        "subclass": []
+      },
+      {
+        "class": "146 Naturalism & related systems",
+        "subclass": []
+      },
+      {
+        "class": "147 Pantheism & related systems",
+        "subclass": []
+      },
+      {
+        "class": "148 Eclecticism, liberalism & traditionalism",
+        "subclass": []
+      },
+      {
+        "class": "149 Other philosophical systems",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "150 Psychology",
+    "subclass": [
+      {
+        "class": "152 Sensory perception, movement, emotions & physiological drives",
+        "subclass": []
+      },
+      {
+        "class": "153 Mental processes & intelligence",
+        "subclass": []
+      },
+      {
+        "class": "154 Subconscious & altered states",
+        "subclass": []
+      },
+      {
+        "class": "155 Differential & developmental psychology",
+        "subclass": []
+      },
+      {
+        "class": "156 Comparative psychology",
+        "subclass": []
+      },
+      {
+        "class": "158 Applied psychology",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "160 Logic",
+    "subclass": [
+      {
+        "class": "161 Induction",
+        "subclass": []
+      },
+      {
+        "class": "162 Deduction",
+        "subclass": []
+      },
+      {
+        "class": "165 Fallacies & sources of error",
+        "subclass": []
+      },
+      {
+        "class": "166 Syllogisms",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "170 Ethics",
+    "subclass": [
+      {
+        "class": "171 Ethical systems",
+        "subclass": []
+      },
+      {
+        "class": "172 Political ethics",
+        "subclass": []
+      },
+      {
+        "class": "173 Ethics of family relationships",
+        "subclass": []
+      },
+      {
+        "class": "174 Occupational ethics",
+        "subclass": []
+      },
+      {
+        "class": "175 Ethics of recreation & leisure",
+        "subclass": []
+      },
+      {
+        "class": "176 Ethics of sex & reproduction",
+        "subclass": []
+      },
+      {
+        "class": "177 Ethics of social relations",
+        "subclass": []
+      },
+      {
+        "class": "178 Ethics of consumption",
+        "subclass": []
+      },
+      {
+        "class": "179 Other ethical norms",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "180 Ancient, medieval & eastern philosophy",
+    "subclass": [
+      {
+        "class": "181 Eastern philosophy",
+        "subclass": []
+      },
+      {
+        "class": "182 Pre-Socratic Greek philosophies",
+        "subclass": []
+      },
+      {
+        "class": "183 Sophistic, Socratic & related philosophies",
+        "subclass": []
+      },
+      {
+        "class": "184 Platonic philosophy",
+        "subclass": []
+      },
+      {
+        "class": "185 Aristotelian philosophy",
+        "subclass": []
+      },
+      {
+        "class": "186 Skeptic & New Academy philosophies",
+        "subclass": []
+      },
+      {
+        "class": "187 Epicurean philosophy",
+        "subclass": []
+      },
+      {
+        "class": "188 Stoic philosophy",
+        "subclass": []
+      },
+      {
+        "class": "189 Medieval western philosophy",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "190 Modern western philosophy (19th century, 1800-1899)",
+    "subclass": [
+      {
+        "class": "191 American philosophy in the 19th century",
+        "subclass": []
+      },
+      {
+        "class": "192 British philosophy in the 19th century",
+        "subclass": []
+      },
+      {
+        "class": "193 German philosophy in the 19th century",
+        "subclass": []
+      },
+      {
+        "class": "194 French philosophy in the 19th century",
+        "subclass": []
+      },
+      {
+        "class": "195 Italian philosophy in the 19th century",
+        "subclass": []
+      },
+      {
+        "class": "196 Iberian philosophy in the 19th century",
+        "subclass": []
+      },
+      {
+        "class": "198 Scandinavian philosophy in the 19th century",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "200 Religion",
+    "subclass": [
+      {
+        "class": "201 Religious mythology, general classes of religion, interreligious relations & attitudes toward religion",
+        "subclass": []
+      },
+      {
+        "class": "202 Doctrines",
+        "subclass": []
+      },
+      {
+        "class": "203 Public worship & other practices",
+        "subclass": []
+      },
+      {
+        "class": "204 Religious experience, life & practice",
+        "subclass": []
+      },
+      {
+        "class": "205 Religious ethics",
+        "subclass": []
+      },
+      {
+        "class": "206 Leaders & organization",
+        "subclass": []
+      },
+      {
+        "class": "207 Missions & religious education",
+        "subclass": []
+      },
+      {
+        "class": "208 With respect to kinds of persons",
+        "subclass": []
+      },
+      {
+        "class": "209 Historical, geographic treatment & biography",
+        "subclass": []
+      },
+      {
+        "class": "210 Philosophy & theory of religion",
+        "subclass": []
+      },
+      {
+        "class": "211 Concepts of God",
+        "subclass": []
+      },
+      {
+        "class": "212 Existence, attributes & worship of God",
+        "subclass": []
+      },
+      {
+        "class": "213 Creation",
+        "subclass": []
+      },
+      {
+        "class": "214 Theodicy",
+        "subclass": []
+      },
+      {
+        "class": "215 Science & religion",
+        "subclass": []
+      },
+      {
+        "class": "216 Good & evil",
+        "subclass": []
+      },
+      {
+        "class": "218 Humankind",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "220 The Bible",
+    "subclass": [
+      {
+        "class": "221 Old Testament (Tanakh)",
+        "subclass": []
+      },
+      {
+        "class": "222 Historical books of Old Testament (Tanakh)",
+        "subclass": []
+      },
+      {
+        "class": "223 Poetic books of Old Testament (Tanakh)",
+        "subclass": []
+      },
+      {
+        "class": "224 Prophetic books of Old Testament (Tanakh)",
+        "subclass": []
+      },
+      {
+        "class": "225 New Testament",
+        "subclass": []
+      },
+      {
+        "class": "226 Gospels & Acts",
+        "subclass": []
+      },
+      {
+        "class": "228 Epistles",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "230 Christian theology",
+    "subclass": [
+      {
+        "class": "231 God",
+        "subclass": []
+      },
+      {
+        "class": "232 Jesus Christ & his family",
+        "subclass": []
+      },
+      {
+        "class": "233 Humankind",
+        "subclass": []
+      },
+      {
+        "class": "234 Salvation & grace",
+        "subclass": []
+      },
+      {
+        "class": "235 Spiritual beings",
+        "subclass": []
+      },
+      {
+        "class": "238 Creeds & catechisms",
+        "subclass": []
+      },
+      {
+        "class": "239 Apologetics & polemics",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "240 Christian moral & devotional theology",
+    "subclass": [
+      {
+        "class": "242 Devotional literature",
+        "subclass": []
+      },
+      {
+        "class": "243 Evangelistic writings for individuals",
+        "subclass": []
+      },
+      {
+        "class": "246 Use of art in Christianity",
+        "subclass": []
+      },
+      {
+        "class": "247 Church furnishings & articles",
+        "subclass": []
+      },
+      {
+        "class": "248 Christian experience, practice & life",
+        "subclass": []
+      },
+      {
+        "class": "249 Christian observances in family life",
+        "subclass": []
+      },
+      {
+        "class": "250 Christian orders & local church",
+        "subclass": []
+      },
+      {
+        "class": "251 Preaching (Homiletics)",
+        "subclass": []
+      },
+      {
+        "class": "252 Texts of sermons",
+        "subclass": []
+      },
+      {
+        "class": "253 Pastoral office & work",
+        "subclass": []
+      },
+      {
+        "class": "254 Parish government & administration",
+        "subclass": []
+      },
+      {
+        "class": "255 Religious congregations & orders",
+        "subclass": []
+      },
+      {
+        "class": "259 Pastoral care of families & kinds of persons",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "260 Christian social theology",
+    "subclass": [
+      {
+        "class": "261 Social theology",
+        "subclass": []
+      },
+      {
+        "class": "265 Social & ecclesiastical theology",
+        "subclass": []
+      },
+      {
+        "class": "266 Missions",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "270 History & geography of church",
+    "subclass": [
+      {
+        "class": "271 Religious orders in church history",
+        "subclass": []
+      },
+      {
+        "class": "272 Persecutions in church history",
+        "subclass": []
+      },
+      {
+        "class": "273 Heresies in church history",
+        "subclass": []
+      },
+      {
+        "class": "274 Christian church in Europe",
+        "subclass": []
+      },
+      {
+        "class": "275 Christian church in Asia",
+        "subclass": []
+      },
+      {
+        "class": "276 Christian church in Africa",
+        "subclass": []
+      },
+      {
+        "class": "277 Christian church in North America",
+        "subclass": []
+      },
+      {
+        "class": "278 Christian church in South America",
+        "subclass": []
+      },
+      {
+        "class": "279 Christian church in other areas",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "280 Christian denominations & sects",
+    "subclass": [
+      {
+        "class": "281 Early church & Eastern churches",
+        "subclass": []
+      },
+      {
+        "class": "282 Roman Catholic Church",
+        "subclass": []
+      },
+      {
+        "class": "283 Anglican churches",
+        "subclass": []
+      },
+      {
+        "class": "284 Protestants of Continental origin",
+        "subclass": []
+      },
+      {
+        "class": "285 Presbyterian, Reformed & Congregational",
+        "subclass": []
+      },
+      {
+        "class": "286 Baptist, Disciples of Christ & Adventist",
+        "subclass": []
+      },
+      {
+        "class": "287 Methodist & related churches",
+        "subclass": []
+      },
+      {
+        "class": "289 Other denominations & sects",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "290 Other & comparative religions",
+    "subclass": [
+      {
+        "class": "292 Classical (Greek & Roman) religion",
+        "subclass": []
+      },
+      {
+        "class": "293 Germanic religion",
+        "subclass": []
+      },
+      {
+        "class": "294 Religions of Indic origin",
+        "subclass": []
+      },
+      {
+        "class": "295 Zoroastrianism (Mazdaism, Parseeism)",
+        "subclass": []
+      },
+      {
+        "class": "296 Judaism",
+        "subclass": []
+      },
+      {
+        "class": "297 Islam & religions originating in it",
+        "subclass": []
+      }
+    ]
+  },
+
+  {
+    "class": "300 Social sciences",
+    "subclass": [
+      {
+        "class": "301 Sociology & anthropology",
+        "subclass": []
+      },
+      {
+        "class": "302 Social interaction",
+        "subclass": []
+      },
+      {
+        "class": "303 Social processes",
+        "subclass": []
+      },
+      {
+        "class": "304 Factors affecting social behavior",
+        "subclass": []
+      },
+      {
+        "class": "305 Social groups",
+        "subclass": []
+      },
+      {
+        "class": "306 Culture & institutions",
+        "subclass": []
+      },
+      {
+        "class": "307 Communities",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "310 Statistics",
+    "subclass": [
+      {
+        "class": "314 General statistics",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "320 Political science",
+    "subclass": [
+      {
+        "class": "321 Systems of governments & states",
+        "subclass": []
+      },
+      {
+        "class": "322 Relation of state to organized groups & their members",
+        "subclass": []
+      },
+      {
+        "class": "323 Civil & political rights",
+        "subclass": []
+      },
+      {
+        "class": "324 The political process",
+        "subclass": []
+      },
+      {
+        "class": "325 International migration & colonization",
+        "subclass": []
+      },
+      {
+        "class": "326 Slavery & emancipation",
+        "subclass": []
+      },
+      {
+        "class": "327 International relations",
+        "subclass": []
+      },
+      {
+        "class": "328 The legislative process",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "330 Economics",
+    "subclass": [
+      {
+        "class": "331 Labor economics",
+        "subclass": []
+      },
+      {
+        "class": "332 Financial economics",
+        "subclass": []
+      },
+      {
+        "class": "333 Land economics",
+        "subclass": []
+      },
+      {
+        "class": "334 Cooperatives",
+        "subclass": []
+      },
+      {
+        "class": "335 Socialism & related systems",
+        "subclass": []
+      },
+      {
+        "class": "336 Public finance",
+        "subclass": []
+      },
+      {
+        "class": "337 International economics",
+        "subclass": []
+      },
+      {
+        "class": "338 Production",
+        "subclass": []
+      },
+      {
+        "class": "339 Macroeconomics & related topics",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "340 Law",
+    "subclass": [
+      {
+        "class": "341 Law of nations",
+        "subclass": []
+      },
+      {
+        "class": "342 Constitutional & administrative law",
+        "subclass": []
+      },
+      {
+        "class": "343 Military, defense & public property",
+        "subclass": []
+      },
+      {
+        "class": "344 Labor, social, education & cultural law",
+        "subclass": []
+      },
+      {
+        "class": "345 Criminal law",
+        "subclass": []
+      },
+      {
+        "class": "346 Private law",
+        "subclass": []
+      },
+      {
+        "class": "347 Civil procedure & courts",
+        "subclass": []
+      },
+      {
+        "class": "348 Laws, regulations & cases",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "350 Public administration & military science",
+    "subclass": [
+      {
+        "class": "351 Public administration",
+        "subclass": []
+      },
+      {
+        "class": "352 General considerations of public administration",
+        "subclass": []
+      },
+      {
+        "class": "353 Specific fields of public administration",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "355 Military science",
+    "subclass": [
+      {
+        "class": "356 Infantry forces & warfare",
+        "subclass": []
+      },
+      {
+        "class": "357 Mounted forces & warfare",
+        "subclass": []
+      },
+      {
+        "class": "359 Sea forces & warfare",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "360 Social problems & services; associations",
+    "subclass": [
+      {
+        "class": "361 Social problems & social welfare in general",
+        "subclass": []
+      },
+      {
+        "class": "362 Social welfare problems & services",
+        "subclass": []
+      },
+      {
+        "class": "363 Other social problems & services",
+        "subclass": []
+      },
+      {
+        "class": "365 Penal & related institutions",
+        "subclass": []
+      },
+      {
+        "class": "368 Insurance",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "370 Education",
+    "subclass": [
+      {
+        "class": "371 Schools & their activities; special education",
+        "subclass": []
+      },
+      {
+        "class": "372 Elementary education",
+        "subclass": []
+      },
+      {
+        "class": "373 Secondary education",
+        "subclass": []
+      },
+      {
+        "class": "374 Adult education",
+        "subclass": []
+      },
+      {
+        "class": "375 Curricula",
+        "subclass": []
+      },
+      {
+        "class": "378 Higher education",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "380 Commerce, communications & transportation",
+    "subclass": [
+      {
+        "class": "381 Commerce",
+        "subclass": []
+      },
+      {
+        "class": "382 International commerce",
+        "subclass": []
+      },
+      {
+        "class": "383 Postal communication",
+        "subclass": []
+      },
+      {
+        "class": "384 Communications; telecommunication",
+        "subclass": []
+      },
+      {
+        "class": "385 Railroad transportation",
+        "subclass": []
+      },
+      {
+        "class": "387 Water, air & space transportation",
+        "subclass": []
+      },
+      {
+        "class": "389 Metrology & standardization",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "390 Customs, etiquette & folklore",
+    "subclass": [
+      {
+        "class": "391 Customs of life cycle & domestic life",
+        "subclass": []
+      },
+      {
+        "class": "392 Customs of life cycle & domestic life of groups",
+        "subclass": []
+      },
+      {
+        "class": "393 Death customs",
+        "subclass": []
+      },
+      {
+        "class": "398 Folklore",
+        "subclass": []
+      },
+      {
+        "class": "399 Customs of war & diplomacy",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "400 Language",
+    "subclass": [
+      {
+        "class": "401 Philosophy & theory",
+        "subclass": []
+      },
+      {
+        "class": "402 Miscellany",
+        "subclass": []
+      },
+      {
+        "class": "403 Dictionaries & encyclopedias in language",
+        "subclass": []
+      },
+      {
+        "class": "404 Special topics",
+        "subclass": []
+      },
+      {
+        "class": "405 Serial publications in language",
+        "subclass": []
+      },
+      {
+        "class": "406 Organizations & management in language",
+        "subclass": []
+      },
+      {
+        "class": "407 Education, research & related topics in language",
+        "subclass": []
+      },
+      {
+        "class": "408 Groups of people in language",
+        "subclass": []
+      },
+      {
+        "class": "409 Historical & geographical treatment in language",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "410 Linguistics",
+    "subclass": [
+      {
+        "class": "411 Writing systems",
+        "subclass": []
+      },
+      {
+        "class": "412 Etymology",
+        "subclass": []
+      },
+      {
+        "class": "413 Dictionaries in linguistics",
+        "subclass": []
+      },
+      {
+        "class": "414 Phonology & phonetics",
+        "subclass": []
+      },
+      {
+        "class": "415 Structural systems (Grammar)",
+        "subclass": []
+      },
+      {
+        "class": "417 Dialectology & historical linguistics",
+        "subclass": []
+      },
+      {
+        "class": "418 Standard usage & applied linguistics",
+        "subclass": []
+      },
+      {
+        "class": "419 Verbal language not spoken or written",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "420 English & Old English languages",
+    "subclass": [
+      {
+        "class": "421 English writing system & phonology",
+        "subclass": []
+      },
+      {
+        "class": "422 English etymology",
+        "subclass": []
+      },
+      {
+        "class": "423 English dictionaries",
+        "subclass": []
+      },
+      {
+        "class": "425 English grammar",
+        "subclass": []
+      },
+      {
+        "class": "427 English language variations",
+        "subclass": []
+      },
+      {
+        "class": "428 Standard English usage",
+        "subclass": []
+      },
+      {
+        "class": "429 Old English (Anglo-Saxon)",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "430 Germanic languages; German",
+    "subclass": [
+      {
+        "class": "431 German writing system & phonology",
+        "subclass": []
+      },
+      {
+        "class": "432 German etymology",
+        "subclass": []
+      },
+      {
+        "class": "433 German dictionaries",
+        "subclass": []
+      },
+      {
+        "class": "435 German grammar",
+        "subclass": []
+      },
+      {
+        "class": "437 German language variations",
+        "subclass": []
+      },
+      {
+        "class": "438 Standard German usage",
+        "subclass": []
+      },
+      {
+        "class": "439 Other Germanic languages",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "440 Romance languages; French",
+    "subclass": [
+      {
+        "class": "441 French writing system & phonology",
+        "subclass": []
+      },
+      {
+        "class": "442 French etymology",
+        "subclass": []
+      },
+      {
+        "class": "443 French dictionaries",
+        "subclass": []
+      },
+      {
+        "class": "445 French grammar",
+        "subclass": []
+      },
+      {
+        "class": "447 French language variations",
+        "subclass": []
+      },
+      {
+        "class": "448 Standard French usage",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "449 Occitan & Catalan languages",
+    "subclass": []
+  },
+  {
+    "class": "450 Italian, Romanian & related languages",
+    "subclass": [
+      {
+        "class": "451 Italian writing system & phonology",
+        "subclass": []
+      },
+      {
+        "class": "452 Italian etymology",
+        "subclass": []
+      },
+      {
+        "class": "453 Italian dictionaries",
+        "subclass": []
+      },
+      {
+        "class": "455 Italian grammar",
+        "subclass": []
+      },
+      {
+        "class": "457 Italian language variations",
+        "subclass": []
+      },
+      {
+        "class": "458 Standard Italian usage",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "459 Romanian & related languages",
+    "subclass": []
+  },
+  {
+    "class": "460 Spanish & Portuguese languages",
+    "subclass": [
+      {
+        "class": "461 Spanish writing system & phonology",
+        "subclass": []
+      },
+      {
+        "class": "462 Spanish etymology",
+        "subclass": []
+      },
+      {
+        "class": "463 Spanish dictionaries",
+        "subclass": []
+      },
+      {
+        "class": "465 Spanish grammar",
+        "subclass": []
+      },
+      {
+        "class": "467 Spanish language variations",
+        "subclass": []
+      },
+      {
+        "class": "468 Standard Spanish usage",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "469 Portuguese language",
+    "subclass": []
+  },
+  {
+    "class": "470 Italic Latin languages; Latin",
+    "subclass": [
+      {
+        "class": "471 Classical Latin writing & phonology",
+        "subclass": []
+      },
+      {
+        "class": "472 Classical Latin etymology",
+        "subclass": []
+      },
+      {
+        "class": "473 Classical Latin dictionaries",
+        "subclass": []
+      },
+      {
+        "class": "475 Classical Latin grammar",
+        "subclass": []
+      },
+      {
+        "class": "477 Classical Latin language variations",
+        "subclass": []
+      },
+      {
+        "class": "478 Classical Latin usage",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "479 Other Italic languages",
+    "subclass": []
+  },
+  {
+    "class": "480 Hellenic languages; classical Greek",
+    "subclass": [
+      {
+        "class": "481 Classical Greek writing & phonology",
+        "subclass": []
+      },
+      {
+        "class": "482 Classical Greek dictionaries",
+        "subclass": []
+      },
+      {
+        "class": "483 Classical Greek grammar",
+        "subclass": []
+      },
+      {
+        "class": "484 Classical Greek language variations",
+        "subclass": []
+      },
+      {
+        "class": "485 Classical Greek usage",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "487 Preclassical & postclassical Greek writing",
+    "subclass": []
+  },
+  {
+    "class": "488 Preclassical & postclassical Greek etymology",
+    "subclass": []
+  },
+  {
+    "class": "490 Other languages",
+    "subclass": [
+      {
+        "class": "491 East Indo-European & Celtic languages",
+        "subclass": []
+      },
+      {
+        "class": "492 Afro-Asiatic languages; Semitic languages",
+        "subclass": []
+      },
+      {
+        "class": "493 Non-Semitic Afro-Asiatic languages",
+        "subclass": []
+      },
+      {
+        "class": "494 Altaic, Uralic, Hyperborean & Dravidian",
+        "subclass": []
+      },
+      {
+        "class": "495 Languages of East & Southeast Asia",
+        "subclass": []
+      },
+      {
+        "class": "496 African languages",
+        "subclass": []
+      },
+      {
+        "class": "497 North American native languages",
+        "subclass": []
+      },
+      {
+        "class": "498 South American native languages",
+        "subclass": []
+      },
+      {
+        "class": "499 Austronesian & other languages",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "500 Natural sciences & mathematics",
+    "subclass": [
+      {
+        "class": "501 Philosophy & theory",
+        "subclass": []
+      },
+      {
+        "class": "502 Miscellany",
+        "subclass": []
+      },
+      {
+        "class": "503 Dictionaries & encyclopedias",
+        "subclass": []
+      },
+      {
+        "class": "505 Serial publications",
+        "subclass": []
+      },
+      {
+        "class": "506 Organizations & management",
+        "subclass": []
+      },
+      {
+        "class": "507 Education, research & related topics",
+        "subclass": []
+      },
+      {
+        "class": "508 Natural history",
+        "subclass": []
+      },
+      {
+        "class": "509 Historical, geographic & persons treatment",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "510 Mathematics",
+    "subclass": [
+      {
+        "class": "511 General principles of mathematics",
+        "subclass": []
+      },
+      {
+        "class": "512 Algebra",
+        "subclass": []
+      },
+      {
+        "class": "513 Arithmetic",
+        "subclass": []
+      },
+      {
+        "class": "514 Topology",
+        "subclass": []
+      },
+      {
+        "class": "515 Analysis",
+        "subclass": []
+      },
+      {
+        "class": "516 Geometry",
+        "subclass": []
+      },
+      {
+        "class": "518 Numerical analysis",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "520 Astronomy & allied sciences",
+    "subclass": [
+      {
+        "class": "521 Celestial mechanics",
+        "subclass": []
+      },
+      {
+        "class": "522 Techniques, procedures, apparatus, equipment, materials",
+        "subclass": []
+      },
+      {
+        "class": "523 Specific celestial bodies & phenomena",
+        "subclass": []
+      },
+      {
+        "class": "525 Earth (Astronomical geography)",
+        "subclass": []
+      },
+      {
+        "class": "526 Mathematical geography",
+        "subclass": []
+      },
+      {
+        "class": "527 Celestial navigation",
+        "subclass": []
+      },
+      {
+        "class": "528 Ephemerides",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "530 Physics",
+    "subclass": [
+      {
+        "class": "531 Classical mechanics; solid mechanics",
+        "subclass": []
+      },
+      {
+        "class": "532 Fluid mechanics; liquid mechanics",
+        "subclass": []
+      },
+      {
+        "class": "533 Gas mechanics",
+        "subclass": []
+      },
+      {
+        "class": "534 Sound & related vibrations",
+        "subclass": []
+      },
+      {
+        "class": "535 Light & related radiation",
+        "subclass": []
+      },
+      {
+        "class": "536 Heat",
+        "subclass": []
+      },
+      {
+        "class": "537 Electricity & electronics",
+        "subclass": []
+      },
+      {
+        "class": "538 Magnetism",
+        "subclass": []
+      },
+      {
+        "class": "539 Modern physics",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "540 Chemistry & allied sciences",
+    "subclass": [
+      {
+        "class": "541 Physical chemistry",
+        "subclass": []
+      },
+      {
+        "class": "542 Techniques, procedures, apparatus, equipment, materials",
+        "subclass": []
+      },
+      {
+        "class": "543 Analytical chemistry",
+        "subclass": []
+      },
+      {
+        "class": "546 Inorganic chemistry",
+        "subclass": []
+      },
+      {
+        "class": "547 Organic chemistry",
+        "subclass": []
+      },
+      {
+        "class": "548 Crystallography",
+        "subclass": []
+      },
+      {
+        "class": "549 Mineralogy",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "550 Earth sciences & geology",
+    "subclass": [
+      {
+        "class": "551 Geology, hydrology & meteorology",
+        "subclass": []
+      },
+      {
+        "class": "552 Petrology",
+        "subclass": []
+      },
+      {
+        "class": "553 Economic geology",
+        "subclass": []
+      },
+      {
+        "class": "554 Earth sciences of Europe",
+        "subclass": []
+      },
+      {
+        "class": "555 Earth sciences of Asia",
+        "subclass": []
+      },
+      {
+        "class": "556 Earth sciences of Africa",
+        "subclass": []
+      },
+      {
+        "class": "557 Earth sciences of North America",
+        "subclass": []
+      },
+      {
+        "class": "558 Earth sciences of South America",
+        "subclass": []
+      },
+      {
+        "class": "559 Earth sciences of other areas",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "560 Paleontology",
+    "subclass": [
+      {
+        "class": "561 Paleobotany; fossil microorganisms",
+        "subclass": []
+      },
+      {
+        "class": "562 Fossil invertebrates",
+        "subclass": []
+      },
+      {
+        "class": "563 Fossil marine & seashore invertebrates",
+        "subclass": []
+      },
+      {
+        "class": "564 Fossil mollusks & molluscoids",
+        "subclass": []
+      },
+      {
+        "class": "565 Other fossil marine & seashore invertebrates",
+        "subclass": []
+      },
+      {
+        "class": "566 Fossil arthropods",
+        "subclass": []
+      },
+      {
+        "class": "567 Fossil cold-blooded vertebrates",
+        "subclass": []
+      },
+      {
+        "class": "568 Fossil birds",
+        "subclass": []
+      },
+      {
+        "class": "569 Fossil mammals",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "570 Life sciences; biology",
+    "subclass": [
+      {
+        "class": "571 Physiology & related subjects",
+        "subclass": []
+      },
+      {
+        "class": "572 Biochemistry",
+        "subclass": []
+      },
+      {
+        "class": "574 Biology",
+        "subclass": []
+      },
+      {
+        "class": "575 Specific parts of & systems in plants",
+        "subclass": []
+      },
+      {
+        "class": "576 Genetics & evolution",
+        "subclass": []
+      },
+      {
+        "class": "577 Ecology",
+        "subclass": []
+      },
+      {
+        "class": "578 Natural history of organisms",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "580 Plants (Botany)",
+    "subclass": [
+      {
+        "class": "581 Specific topics in natural history of plants",
+        "subclass": []
+      },
+      {
+        "class": "582 Plants noted for specific vegetative characteristics & flowers",
+        "subclass": []
+      },
+      {
+        "class": "583 Dicotyledons",
+        "subclass": []
+      },
+      {
+        "class": "584 Monocotyledons",
+        "subclass": []
+      },
+      {
+        "class": "585 Gymnosperms; conifers",
+        "subclass": []
+      },
+      {
+        "class": "586 Seedless plants",
+        "subclass": []
+      },
+      {
+        "class": "587 Vascular seedless plants",
+        "subclass": []
+      },
+      {
+        "class": "588 Bryophytes",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "590 Animals (Zoology)",
+    "subclass": [
+      {
+        "class": "591 Specific topics in natural history of animals",
+        "subclass": []
+      },
+      {
+        "class": "592 Invertebrates",
+        "subclass": []
+      },
+      {
+        "class": "593 Marine & seashore invertebrates",
+        "subclass": []
+      },
+      {
+        "class": "594 Mollusks & molluscoids",
+        "subclass": []
+      },
+      {
+        "class": "595 Other marine & seashore invertebrates",
+        "subclass": []
+      },
+      {
+        "class": "596 Cold-blooded vertebrates; fishes",
+        "subclass": []
+      },
+      {
+        "class": "597 Cold-blooded vertebrates; fishes; jawless fishes",
+        "subclass": []
+      },
+      {
+        "class": "598 Cold-blooded vertebrates; fishes; cartilaginous fishes",
+        "subclass": []
+      },
+      {
+        "class": "599 Cold-blooded vertebrates; fishes; bony fishes",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "600 Technology",
+    "subclass": [
+      {
+        "class": "601 Philosophy & theory",
+        "subclass": []
+      },
+      {
+        "class": "602 Miscellany",
+        "subclass": []
+      },
+      {
+        "class": "603 Dictionaries & encyclopedias",
+        "subclass": []
+      },
+      {
+        "class": "604 Special topics",
+        "subclass": []
+      },
+      {
+        "class": "605 Serial publications",
+        "subclass": []
+      },
+      {
+        "class": "606 Organizations",
+        "subclass": []
+      },
+      {
+        "class": "607 Education, research & related topics",
+        "subclass": []
+      },
+      {
+        "class": "608 Invention & patents",
+        "subclass": []
+      },
+      {
+        "class": "609 Historical, geographic & persons treatment",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "610 Medicine & health",
+    "subclass": [
+      {
+        "class": "611 Human anatomy, cytology & histology",
+        "subclass": []
+      },
+      {
+        "class": "612 Human physiology",
+        "subclass": []
+      },
+      {
+        "class": "613 Personal health & safety",
+        "subclass": []
+      },
+      {
+        "class": "614 Incidence & prevention of disease",
+        "subclass": []
+      },
+      {
+        "class": "615 Pharmacology & therapeutics",
+        "subclass": []
+      },
+      {
+        "class": "616 Diseases",
+        "subclass": []
+      },
+      {
+        "class": "617 Surgery & related medical specialties",
+        "subclass": []
+      },
+      {
+        "class": "618 Gynecology, obstetrics, pediatrics & geriatrics",
+        "subclass": []
+      },
+      {
+        "class": "619 [Unassigned]",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "620 Engineering & allied operations",
+    "subclass": [
+      {
+        "class": "621 Applied physics",
+        "subclass": []
+      },
+      {
+        "class": "622 Mining & related operations",
+        "subclass": []
+      },
+      {
+        "class": "623 Military & nautical engineering",
+        "subclass": []
+      },
+      {
+        "class": "624 Civil engineering",
+        "subclass": []
+      },
+      {
+        "class": "625 Engineering of railroads & roads",
+        "subclass": []
+      },
+      {
+        "class": "627 Hydraulic engineering",
+        "subclass": []
+      },
+      {
+        "class": "628 Sanitary & municipal engineering",
+        "subclass": []
+      },
+      {
+        "class": "629 Other branches of engineering",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "630 Agriculture & related technologies",
+    "subclass": [
+      {
+        "class": "631 Techniques, equipment & materials",
+        "subclass": []
+      },
+      {
+        "class": "632 Plant injuries, diseases & pests",
+        "subclass": []
+      },
+      {
+        "class": "633 Field & plantation crops",
+        "subclass": []
+      },
+      {
+        "class": "634 Orchards, fruits, forestry",
+        "subclass": []
+      },
+      {
+        "class": "635 Garden crops (Horticulture)",
+        "subclass": []
+      },
+      {
+        "class": "636 Animal husbandry",
+        "subclass": []
+      },
+      {
+        "class": "637 Processing dairy & related products",
+        "subclass": []
+      },
+      {
+        "class": "638 Insect culture",
+        "subclass": []
+      },
+      {
+        "class": "639 Hunting, fishing & conservation",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "640 Home & family management",
+    "subclass": [
+      {
+        "class": "641 Food & drink",
+        "subclass": []
+      },
+      {
+        "class": "642 Meals & table service",
+        "subclass": []
+      },
+      {
+        "class": "643 Housing & household equipment",
+        "subclass": []
+      },
+      {
+        "class": "644 Household utilities",
+        "subclass": []
+      },
+      {
+        "class": "645 Household furnishings",
+        "subclass": []
+      },
+      {
+        "class": "646 Sewing, clothing & personal living",
+        "subclass": []
+      },
+      {
+        "class": "647 Management of public households",
+        "subclass": []
+      },
+      {
+        "class": "648 Housekeeping",
+        "subclass": []
+      },
+      {
+        "class": "649 Child rearing & home care of sick",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "650 Management & auxiliary services",
+    "subclass": [
+      {
+        "class": "651 Office services",
+        "subclass": []
+      },
+      {
+        "class": "652 Processes of written communication",
+        "subclass": []
+      },
+      {
+        "class": "653 Shorthand",
+        "subclass": []
+      },
+      {
+        "class": "657 Accounting",
+        "subclass": []
+      },
+      {
+        "class": "658 General management",
+        "subclass": []
+      },
+      {
+        "class": "659 Advertising & public relations",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "660 Chemical engineering",
+    "subclass": [
+      {
+        "class": "661 Industrial chemicals",
+        "subclass": []
+      },
+      {
+        "class": "663 Beverage technology",
+        "subclass": []
+      },
+      {
+        "class": "665 Industrial oils, fats, waxes & gases",
+        "subclass": []
+      },
+      {
+        "class": "666 Ceramic & allied technologies",
+        "subclass": []
+      },
+      {
+        "class": "667 Cleaning, color, coating & related technologies",
+        "subclass": []
+      },
+      {
+        "class": "668 Technology of other organic products",
+        "subclass": []
+      },
+      {
+        "class": "669 Metallurgy",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "670 Manufacturing",
+    "subclass": [
+      {
+        "class": "671 Metalworking & primary metal products",
+        "subclass": []
+      },
+      {
+        "class": "672 Iron, steel & other iron alloys",
+        "subclass": []
+      },
+      {
+        "class": "673 Nonferrous metals",
+        "subclass": []
+      },
+      {
+        "class": "674 Lumber processing, wood products & cork",
+        "subclass": []
+      },
+      {
+        "class": "675 Leather & fur processing",
+        "subclass": []
+      },
+      {
+        "class": "676 Pulp & paper technology",
+        "subclass": []
+      },
+      {
+        "class": "677 Textiles",
+        "subclass": []
+      },
+      {
+        "class": "678 Elastomers & elastomer products",
+        "subclass": []
+      },
+      {
+        "class": "679 Other products of specific materials",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "680 Manufacture for specific uses",
+    "subclass": [
+      {
+        "class": "681 Precision instruments & other devices",
+        "subclass": []
+      },
+      {
+        "class": "682 Small forge work (Blacksmithing)",
+        "subclass": []
+      },
+      {
+        "class": "683 Hardware & household appliances",
+        "subclass": []
+      },
+      {
+        "class": "684 Furnishings & home workshops",
+        "subclass": []
+      },
+      {
+        "class": "685 Leather, fur goods & related products",
+        "subclass": []
+      },
+      {
+        "class": "686 Printing & related activities",
+        "subclass": []
+      },
+      {
+        "class": "687 Clothing & accessories",
+        "subclass": []
+      },
+      {
+        "class": "688 Other final products & packaging",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "690 Buildings",
+    "subclass": [
+      {
+        "class": "691 Building materials",
+        "subclass": []
+      },
+      {
+        "class": "692 Auxiliary construction practices",
+        "subclass": []
+      },
+      {
+        "class": "693 Specific materials & purposes",
+        "subclass": []
+      },
+      {
+        "class": "694 Wood construction & carpentry",
+        "subclass": []
+      },
+      {
+        "class": "695 Roof covering",
+        "subclass": []
+      },
+      {
+        "class": "696 Utilities",
+        "subclass": []
+      },
+      {
+        "class": "697 Heating, ventilating & air-conditioning",
+        "subclass": []
+      },
+      {
+        "class": "698 Detail finishing",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "700 The arts",
+    "subclass": [
+      {
+        "class": "701 Philosophy & theory",
+        "subclass": []
+      },
+      {
+        "class": "702 Miscellany",
+        "subclass": []
+      },
+      {
+        "class": "703 Dictionaries & encyclopedias",
+        "subclass": []
+      },
+      {
+        "class": "704 Special topics",
+        "subclass": []
+      },
+      {
+        "class": "705 Serial publications",
+        "subclass": []
+      },
+      {
+        "class": "706 Organizations & management",
+        "subclass": []
+      },
+      {
+        "class": "707 Education, research & related topics",
+        "subclass": []
+      },
+      {
+        "class": "708 Galleries, museums & private collections",
+        "subclass": []
+      },
+      {
+        "class": "709 Historical, geographic & persons treatment",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "710 Civic & landscape art",
+    "subclass": [
+      {
+        "class": "711 Area planning",
+        "subclass": []
+      },
+      {
+        "class": "712 Landscape architecture",
+        "subclass": []
+      },
+      {
+        "class": "714 Water features",
+        "subclass": []
+      },
+      {
+        "class": "715 Woody plants",
+        "subclass": []
+      },
+      {
+        "class": "716 Herbaceous plants",
+        "subclass": []
+      },
+      {
+        "class": "717 Structures in landscape architecture",
+        "subclass": []
+      },
+      {
+        "class": "718 Landscape design of cemeteries",
+        "subclass": []
+      },
+      {
+        "class": "719 Natural landscapes",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "720 Architecture",
+    "subclass": [
+      {
+        "class": "721 Architectural structure",
+        "subclass": []
+      },
+      {
+        "class": "722 Architecture to ca. 300",
+        "subclass": []
+      },
+      {
+        "class": "723 Architecture from ca. 300 to 1399",
+        "subclass": []
+      },
+      {
+        "class": "725 Architecture from 1400",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "730 Plastic arts; sculpture",
+    "subclass": [
+      {
+        "class": "731 Processes, forms & subjects of sculpture",
+        "subclass": []
+      },
+      {
+        "class": "732 Sculpture to ca. 500",
+        "subclass": []
+      },
+      {
+        "class": "733 Greek, Etruscan & Roman sculpture",
+        "subclass": []
+      },
+      {
+        "class": "734 Sculpture from ca. 500 to 1399",
+        "subclass": []
+      },
+      {
+        "class": "735 Sculpture from 1400",
+        "subclass": []
+      },
+      {
+        "class": "736 [Unassigned]",
+        "subclass": []
+      },
+      {
+        "class": "737 Numismatics & sigillography",
+        "subclass": []
+      },
+      {
+        "class": "738 Ceramic arts",
+        "subclass": []
+      },
+      {
+        "class": "739 Art metalwork",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "740 Drawing & decorative arts",
+    "subclass": [
+      {
+        "class": "741 Drawing & drawings",
+        "subclass": []
+      },
+      {
+        "class": "742 Perspective",
+        "subclass": []
+      },
+      {
+        "class": "743 Drawing & drawings by subject",
+        "subclass": []
+      },
+      {
+        "class": "744 [Unassigned]",
+        "subclass": []
+      },
+      {
+        "class": "745 Decorative arts",
+        "subclass": []
+      },
+      {
+        "class": "746 Textile arts",
+        "subclass": []
+      },
+      {
+        "class": "747 Interior decoration",
+        "subclass": []
+      },
+      {
+        "class": "748 Glass",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "750 Painting & paintings",
+    "subclass": [
+      {
+        "class": "751 Techniques, equipment, forms",
+        "subclass": []
+      },
+      {
+        "class": "752 Color",
+        "subclass": []
+      },
+      {
+        "class": "753 Symbolism, allegory, mythology, legend",
+        "subclass": []
+      },
+      {
+        "class": "754 Genre paintings",
+        "subclass": []
+      },
+      {
+        "class": "755 Religion",
+        "subclass": []
+      },
+      {
+        "class": "757 Human figures & their parts",
+        "subclass": []
+      },
+      {
+        "class": "758 Other subjects",
+        "subclass": []
+      },
+      {
+        "class": "759 Historical & geographic treatment",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "760 Graphic arts; printmaking & prints",
+    "subclass": [
+      {
+        "class": "761 Relief processes (Block printing)",
+        "subclass": []
+      },
+      {
+        "class": "763 Lithographic processes",
+        "subclass": []
+      },
+      {
+        "class": "764 Chromolithography & serigraphy",
+        "subclass": []
+      },
+      {
+        "class": "765 Metal engraving",
+        "subclass": []
+      },
+      {
+        "class": "766 Mezzotinting & related processes",
+        "subclass": []
+      },
+      {
+        "class": "767 Etching & drypoint",
+        "subclass": []
+      },
+      {
+        "class": "769 Prints",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "770 Photography, computer art, film, video",
+    "subclass": [
+      {
+        "class": "771 Techniques, equipment",
+        "subclass": []
+      },
+      {
+        "class": "772 Metallic salt processes",
+        "subclass": []
+      },
+      {
+        "class": "773 Pigments, dyes & inks",
+        "subclass": []
+      },
+      {
+        "class": "774 Holography",
+        "subclass": []
+      },
+      {
+        "class": "779 Photographs",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "780 Music",
+    "subclass": [
+      {
+        "class": "781 General principles & musical forms",
+        "subclass": []
+      },
+      {
+        "class": "782 Vocal music",
+        "subclass": []
+      },
+      {
+        "class": "783 Music for single voices; the voice",
+        "subclass": []
+      },
+      {
+        "class": "784 Instruments & instrumental ensembles",
+        "subclass": []
+      },
+      {
+        "class": "785 Ensembles with one instrument per part",
+        "subclass": []
+      },
+      {
+        "class": "786 Keyboard & other instruments",
+        "subclass": []
+      },
+      {
+        "class": "787 Stringed instruments",
+        "subclass": []
+      },
+      {
+        "class": "788 Wind instruments",
+        "subclass": []
+      },
+      {
+        "class": "789 [Unassigned]",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "790 Recreation & performing arts",
+    "subclass": [
+      {
+        "class": "791 Public performances",
+        "subclass": []
+      },
+      {
+        "class": "792 Stage presentations",
+        "subclass": []
+      },
+      {
+        "class": "793 Indoor games & amusements",
+        "subclass": []
+      },
+      {
+        "class": "794 Indoor games of skill",
+        "subclass": []
+      },
+      {
+        "class": "795 Games of chance",
+        "subclass": []
+      },
+      {
+        "class": "796 Athletic & outdoor sports & games",
+        "subclass": []
+      },
+      {
+        "class": "797 Aquatic & air sports",
+        "subclass": []
+      },
+      {
+        "class": "798 Equestrian sports & animal racing",
+        "subclass": []
+      },
+      {
+        "class": "799 Fishing, hunting & shooting",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "800 Literature & rhetoric",
+    "subclass": [
+      {
+        "class": "801 Philosophy & theory",
+        "subclass": []
+      },
+      {
+        "class": "802 Miscellany",
+        "subclass": []
+      },
+      {
+        "class": "803 Dictionaries & encyclopedias",
+        "subclass": []
+      },
+      {
+        "class": "805 Serial publications",
+        "subclass": []
+      },
+      {
+        "class": "806 Organizations & management",
+        "subclass": []
+      },
+      {
+        "class": "807 Education, research & related topics",
+        "subclass": []
+      },
+      {
+        "class": "808 Rhetoric & collections of literature",
+        "subclass": []
+      },
+      {
+        "class": "809 History, description & criticism",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "810 American literature in English",
+    "subclass": [
+      {
+        "class": "811 American poetry in English",
+        "subclass": []
+      },
+      {
+        "class": "812 American drama in English",
+        "subclass": []
+      },
+      {
+        "class": "813 American fiction in English",
+        "subclass": []
+      },
+      {
+        "class": "814 American essays in English",
+        "subclass": []
+      },
+      {
+        "class": "815 American speeches in English",
+        "subclass": []
+      },
+      {
+        "class": "816 American letters in English",
+        "subclass": []
+      },
+      {
+        "class": "817 American humor & satire in English",
+        "subclass": []
+      },
+      {
+        "class": "818 American miscellaneous writings",
+        "subclass": []
+      },
+      {
+        "class": "819 American literature in other languages",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "820 English & Old English literatures",
+    "subclass": [
+      {
+        "class": "821 English poetry",
+        "subclass": []
+      },
+      {
+        "class": "822 English drama",
+        "subclass": []
+      },
+      {
+        "class": "823 English fiction",
+        "subclass": []
+      },
+      {
+        "class": "824 English essays",
+        "subclass": []
+      },
+      {
+        "class": "825 English speeches",
+        "subclass": []
+      },
+      {
+        "class": "826 English letters",
+        "subclass": []
+      },
+      {
+        "class": "827 English humor & satire",
+        "subclass": []
+      },
+      {
+        "class": "828 English miscellaneous writings",
+        "subclass": []
+      },
+      {
+        "class": "829 Old English (Anglo-Saxon)",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "830 German & related literatures",
+    "subclass": [
+      {
+        "class": "831 German poetry",
+        "subclass": []
+      },
+      {
+        "class": "832 German drama",
+        "subclass": []
+      },
+      {
+        "class": "833 German fiction",
+        "subclass": []
+      },
+      {
+        "class": "834 German essays",
+        "subclass": []
+      },
+      {
+        "class": "835 German speeches",
+        "subclass": []
+      },
+      {
+        "class": "836 German letters",
+        "subclass": []
+      },
+      {
+        "class": "837 German humor & satire",
+        "subclass": []
+      },
+      {
+        "class": "838 German miscellaneous writings",
+        "subclass": []
+      },
+      {
+        "class": "839 Other Germanic literatures",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "840 Literatures of Romance languages",
+    "subclass": [
+      {
+        "class": "841 French poetry",
+        "subclass": []
+      },
+      {
+        "class": "842 French drama",
+        "subclass": []
+      },
+      {
+        "class": "843 French fiction",
+        "subclass": []
+      },
+      {
+        "class": "844 French essays",
+        "subclass": []
+      },
+      {
+        "class": "845 French speeches",
+        "subclass": []
+      },
+      {
+        "class": "846 French letters",
+        "subclass": []
+      },
+      {
+        "class": "847 French humor & satire",
+        "subclass": []
+      },
+      {
+        "class": "848 French miscellaneous writings",
+        "subclass": []
+      },
+      {
+        "class": "849 Occitan & Catalan literatures",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "850 Italian, Romanian & related literatures",
+    "subclass": [
+      {
+        "class": "851 Italian poetry",
+        "subclass": []
+      },
+      {
+        "class": "852 Italian drama",
+        "subclass": []
+      },
+      {
+        "class": "853 Italian fiction",
+        "subclass": []
+      },
+      {
+        "class": "854 Italian essays",
+        "subclass": []
+      },
+      {
+        "class": "855 Italian speeches",
+        "subclass": []
+      },
+      {
+        "class": "856 Italian letters",
+        "subclass": []
+      },
+      {
+        "class": "857 Italian humor & satire",
+        "subclass": []
+      },
+      {
+        "class": "858 Italian miscellaneous writings",
+        "subclass": []
+      },
+      {
+        "class": "859 Romanian & related literatures",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "860 Spanish & Portuguese literatures",
+    "subclass": [
+      {
+        "class": "861 Spanish poetry",
+        "subclass": []
+      },
+      {
+        "class": "862 Spanish drama",
+        "subclass": []
+      },
+      {
+        "class": "863 Spanish fiction",
+        "subclass": []
+      },
+      {
+        "class": "864 Spanish essays",
+        "subclass": []
+      },
+      {
+        "class": "865 Spanish speeches",
+        "subclass": []
+      },
+      {
+        "class": "866 Spanish letters",
+        "subclass": []
+      },
+      {
+        "class": "867 Spanish humor & satire",
+        "subclass": []
+      },
+      {
+        "class": "868 Spanish miscellaneous writings",
+        "subclass": []
+      },
+      {
+        "class": "869 Portuguese literature",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "870 Italic literatures; Latin literature",
+    "subclass": [
+      {
+        "class": "871 Latin poetry",
+        "subclass": []
+      },
+      {
+        "class": "872 Latin dramatic poetry & drama",
+        "subclass": []
+      },
+      {
+        "class": "873 Latin epic poetry & fiction",
+        "subclass": []
+      },
+      {
+        "class": "874 Latin lyric poetry",
+        "subclass": []
+      },
+      {
+        "class": "875 Latin speeches",
+        "subclass": []
+      },
+      {
+        "class": "876 Latin letters",
+        "subclass": []
+      },
+      {
+        "class": "877 Latin humor & satire",
+        "subclass": []
+      },
+      {
+        "class": "878 Latin miscellaneous writings",
+        "subclass": []
+      },
+      {
+        "class": "879 Literature of Romance languages other than French",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "880 Hellenic literatures; classical Greek",
+    "subclass": [
+      {
+        "class": "881 Classical Greek poetry",
+        "subclass": []
+      },
+      {
+        "class": "882 Classical Greek dramatic poetry & drama",
+        "subclass": []
+      },
+      {
+        "class": "883 Classical Greek epic poetry & fiction",
+        "subclass": []
+      },
+      {
+        "class": "884 Classical Greek lyric poetry",
+        "subclass": []
+      },
+      {
+        "class": "885 Classical Greek speeches",
+        "subclass": []
+      },
+      {
+        "class": "886 Classical Greek letters",
+        "subclass": []
+      },
+      {
+        "class": "887 Classical Greek humor & satire",
+        "subclass": []
+      },
+      {
+        "class": "888 Classical Greek miscellaneous writings",
+        "subclass": []
+      },
+      {
+        "class": "889 Modern Greek literature",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "890 Literature of other languages",
+    "subclass": [
+      {
+        "class": "891 East Indo-European & Celtic literatures",
+        "subclass": []
+      },
+      {
+        "class": "892 Afro-Asiatic literatures; Semitic literatures",
+        "subclass": []
+      },
+      {
+        "class": "893 Non-Semitic Afro-Asiatic literatures",
+        "subclass": []
+      },
+      {
+        "class": "894 Altaic, Uralic, Hyperborean & Dravidian literatures",
+        "subclass": []
+      },
+      {
+        "class": "895 Literatures of East & Southeast Asia",
+        "subclass": []
+      },
+      {
+        "class": "896 African literatures",
+        "subclass": []
+      },
+      {
+        "class": "897 North American native literatures",
+        "subclass": []
+      },
+      {
+        "class": "898 South American native literatures",
+        "subclass": []
+      },
+      {
+        "class": "899 Austronesian & other literatures",
+        "subclass": []
+      }
+    ]
+  },
+  {
+    "class": "900 History & geography",
+    "subclass": [
+      {
+        "class": "901 Philosophy & theory",
+        "subclass": []
+      },
+      {
+        "class": "902 Miscellany",
+        "subclass": []
+      },
+      {
+        "class": "903 Dictionaries & encyclopedias",
+        "subclass": []
+      },
+      {
+        "class": "904 Collected accounts of events",
+        "subclass": []
+      },
+      {
+        "class": "905 Serial publications",
+        "subclass": []
+      },
+      {
+        "class": "906 Organizations & management",
+        "subclass": []
+      },
+      {
+        "class": "907 Education, research & related topics",
+        "subclass": []
+      },
+      {
+        "class": "908 With respect to kinds of persons",
+        "subclass": []
+      },
+      {
+        "class": "909 Historical & geographic treatment",
+        "subclass": []
+      },
+      {
+        "class": "910 Geography & travel",
+        "subclass": []
+      },
+      {
+        "class": "911 Historical geography",
+        "subclass": []
+      },
+      {
+        "class": "912 Graphic representations of earth",
+        "subclass": []
+      },
+      {
+        "class": "913 Geography of & travel in ancient world",
+        "subclass": []
+      },
+      {
+        "class": "914 Geography of & travel in Europe",
+        "subclass": []
+      },
+      {
+        "class": "915 Geography of & travel in Asia",
+        "subclass": []
+      },
+      {
+        "class": "916 Geography of & travel in Africa",
+        "subclass": []
+      },
+      {
+        "class": "917 Geography of & travel in North America",
+        "subclass": []
+      },
+      {
+        "class": "918 Geography of & travel in South America",
+        "subclass": []
+      },
+      {
+        "class": "919 Geography of & travel in other areas",
+        "subclass": []
+      },
+      {
+        "class": "920 Biography, genealogy, insignia",
+        "subclass": []
+      },
+      {
+        "class": "929 Genealogy, names & insignia",
+        "subclass": []
+      },
+      {
+        "class": "930 History of ancient world (to ca. 499)",
+        "subclass": []
+      },
+      {
+        "class": "931 China to 420",
+        "subclass": []
+      },
+      {
+        "class": "932 Egypt to 640",
+        "subclass": []
+      },
+      {
+        "class": "933 Palestine to 70",
+        "subclass": []
+      },
+      {
+        "class": "934 South Asia to 647",
+        "subclass": []
+      },
+      {
+        "class": "935 Mesopotamia & Iranian Plateau to 637",
+        "subclass": []
+      },
+      {
+        "class": "936 Europe north & west of Italy to ca. 499",
+        "subclass": []
+      },
+      {
+        "class": "937 Italy & adjacent territories to 476",
+        "subclass": []
+      },
+      {
+        "class": "938 Greece to 323",
+        "subclass": []
+      },
+      {
+        "class": "939 Other parts of ancient world to ca. 640",
+        "subclass": []
+      },
+      {
+        "class": "940 History of Europe",
+        "subclass": [
+          {
+            "class": "941 British Isles",
+            "subclass": []
+          },
+          {
+            "class": "942 England & Wales",
+            "subclass": []
+          },
+          {
+            "class": "943 Central Europe; Germany",
+            "subclass": []
+          },
+          {
+            "class": "944 France & Monaco",
+            "subclass": []
+          },
+          {
+            "class": "945 Italian Peninsula & adjacent islands",
+            "subclass": []
+          },
+          {
+            "class": "946 Iberian Peninsula & adjacent islands",
+            "subclass": []
+          },
+          {
+            "class": "947 Eastern Europe; Russia",
+            "subclass": []
+          },
+          {
+            "class": "948 Scandinavia",
+            "subclass": []
+          },
+          {
+            "class": "949 Other parts of Europe",
+            "subclass": []
+          }
+        ]
+      },
+      {
+        "class": "950 History of Asia",
+        "subclass": [
+          {
+            "class": "951 China & adjacent areas",
+            "subclass": []
+          },
+          {
+            "class": "952 Japan",
+            "subclass": []
+          },
+          {
+            "class": "953 Arabian Peninsula & adjacent areas",
+            "subclass": []
+          },
+          {
+            "class": "954 South Asia; India",
+            "subclass": []
+          },
+          {
+            "class": "955 Iran",
+            "subclass": []
+          },
+          {
+            "class": "956 Middle East (Near East)",
+            "subclass": []
+          },
+          {
+            "class": "957 Siberia (Asiatic Russia)",
+            "subclass": []
+          },
+          {
+            "class": "958 Central Asia",
+            "subclass": []
+          },
+          {
+            "class": "959 Southeast Asia",
+            "subclass": []
+          }
+        ]
+      },
+      {
+        "class": "960 History of Africa",
+        "subclass": [
+          {
+            "class": "961 Tunisia & Libya",
+            "subclass": []
+          },
+          {
+            "class": "962 Egypt & Sudan",
+            "subclass": []
+          },
+          {
+            "class": "963 Ethiopia & Eritrea",
+            "subclass": []
+          },
+          {
+            "class": "964 North Central Africa",
+            "subclass": []
+          },
+          {
+            "class": "965 Northwest African coast & offshore islands",
+            "subclass": []
+          },
+          {
+            "class": "966 West Africa & offshore islands",
+            "subclass": []
+          },
+          {
+            "class": "967 Central Africa & offshore islands",
+            "subclass": []
+          },
+          {
+            "class": "968 South Central Africa & offshore islands",
+            "subclass": []
+          },
+          {
+            "class": "969 South Africa & neighboring states",
+            "subclass": []
+          }
+        ]
+      },
+      {
+        "class": "970 History of North America",
+        "subclass": [
+          {
+            "class": "971 Canada",
+            "subclass": []
+          },
+          {
+            "class": "972 Mexico, Central America, West Indies, Bermuda",
+            "subclass": []
+          },
+          {
+            "class": "973 United States",
+            "subclass": []
+          },
+          {
+            "class": "974 Northeastern United States",
+            "subclass": []
+          },
+          {
+            "class": "975 Southeastern United States",
+            "subclass": []
+          },
+          {
+            "class": "976 South Central United States",
+            "subclass": []
+          },
+          {
+            "class": "977 North Central United States",
+            "subclass": []
+          },
+          {
+            "class": "978 Western United States",
+            "subclass": []
+          },
+          {
+            "class": "979 Great Basin & Pacific Slope region",
+            "subclass": []
+          }
+        ]
+      },
+      {
+        "class": "980 History of South America",
+        "subclass": [
+          {
+            "class": "981 Brazil",
+            "subclass": []
+          },
+          {
+            "class": "982 Argentina",
+            "subclass": []
+          },
+          {
+            "class": "983 Chile",
+            "subclass": []
+          },
+          {
+            "class": "984 Bolivia",
+            "subclass": []
+          },
+          {
+            "class": "985 Peru",
+            "subclass": []
+          },
+          {
+            "class": "986 Colombia & Ecuador",
+            "subclass": []
+          },
+          {
+            "class": "987 Venezuela",
+            "subclass": []
+          },
+          {
+            "class": "988 Guiana",
+            "subclass": []
+          },
+          {
+            "class": "989 Paraguay & Uruguay",
+            "subclass": []
+          }
+        ]
+      },
+      {
+        "class": "990 History of other areas",
+        "subclass": [
+          {
+            "class": "991 Indonesia & East Timor (Dutch East Indies)",
+            "subclass": []
+          },
+          {
+            "class": "992 Philippines",
+            "subclass": []
+          },
+          {
+            "class": "993 Malaysia & Brunei",
+            "subclass": []
+          },
+          {
+            "class": "994 Borneo",
+            "subclass": []
+          },
+          {
+            "class": "995 Sumatra",
+            "subclass": []
+          },
+          {
+            "class": "996 Java",
+            "subclass": []
+          },
+          {
+            "class": "997 Bali & Lombok",
+            "subclass": []
+          },
+          {
+            "class": "998 Moluccas (Maluku)",
+            "subclass": []
+          },
+          {
+            "class": "999 Other islands of Southeast Asia",
+            "subclass": []
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,123 @@
+C:\Users\user\source\repos\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.exe
+C:\Users\user\source\repos\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.deps.json
+C:\Users\user\source\repos\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.runtimeconfig.json
+C:\Users\user\source\repos\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.runtimeconfig.dev.json
+C:\Users\user\source\repos\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.dll
+C:\Users\user\source\repos\MockOne\MockOne\bin\Debug\net5.0-windows\ref\MockOne.dll
+C:\Users\user\source\repos\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.pdb
+C:\Users\user\source\repos\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MockOne\MockOne\obj\Debug\net5.0-windows\Home.g.cs
+C:\Users\user\source\repos\MockOne\MockOne\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\user\source\repos\MockOne\MockOne\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\user\source\repos\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne_MarkupCompile.cache
+C:\Users\user\source\repos\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne_MarkupCompile.lref
+C:\Users\user\source\repos\MockOne\MockOne\obj\Debug\net5.0-windows\Home.baml
+C:\Users\user\source\repos\MockOne\MockOne\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\user\source\repos\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.g.resources
+C:\Users\user\source\repos\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.AssemblyInfo.cs
+C:\Users\user\source\repos\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.dll
+C:\Users\user\source\repos\MockOne\MockOne\obj\Debug\net5.0-windows\ref\MockOne.dll
+C:\Users\user\source\repos\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.pdb
+C:\Users\user\source\repos\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.genruntimeconfig.cache
+C:\Users\user\source\repos\MockOne\MockOne\obj\Debug\net5.0-windows\ReplaceBooks.g.cs
+C:\Users\user\source\repos\MockOne\MockOne\obj\Debug\net5.0-windows\ReplaceBooks.baml
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\Home.g.cs
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne_MarkupCompile.cache
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne_MarkupCompile.lref
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.exe
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.deps.json
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.runtimeconfig.json
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.runtimeconfig.dev.json
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.dll
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.pdb
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\ReplaceBooks.g.cs
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\Home.baml
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\ReplaceBooks.baml
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.g.resources
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.AssemblyInfo.cs
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.dll
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\refint\MockOne.dll
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.pdb
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.genruntimeconfig.cache
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\ref\MockOne.dll
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\Rules_Replace.g.cs
+C:\Users\lab_services_student\Assignment\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\Rules_Replace.baml
+D:\SEMESTER 2\Assignment\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.exe
+D:\SEMESTER 2\Assignment\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.deps.json
+D:\SEMESTER 2\Assignment\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.runtimeconfig.json
+D:\SEMESTER 2\Assignment\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.runtimeconfig.dev.json
+D:\SEMESTER 2\Assignment\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.dll
+D:\SEMESTER 2\Assignment\MockOne\MockOne\bin\Debug\net5.0-windows\ref\MockOne.dll
+D:\SEMESTER 2\Assignment\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.pdb
+D:\SEMESTER 2\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\Home.g.cs
+D:\SEMESTER 2\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\SEMESTER 2\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\ReplaceBooks.g.cs
+D:\SEMESTER 2\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\Rules_Replace.g.cs
+D:\SEMESTER 2\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\App.g.cs
+D:\SEMESTER 2\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne_MarkupCompile.cache
+D:\SEMESTER 2\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne_MarkupCompile.lref
+D:\SEMESTER 2\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\Home.baml
+D:\SEMESTER 2\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MainWindow.baml
+D:\SEMESTER 2\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\ReplaceBooks.baml
+D:\SEMESTER 2\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\Rules_Replace.baml
+D:\SEMESTER 2\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.g.resources
+D:\SEMESTER 2\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 2\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.AssemblyInfoInputs.cache
+D:\SEMESTER 2\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.AssemblyInfo.cs
+D:\SEMESTER 2\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.csproj.CoreCompileInputs.cache
+D:\SEMESTER 2\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.dll
+D:\SEMESTER 2\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\ref\MockOne.dll
+D:\SEMESTER 2\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.pdb
+D:\SEMESTER 2\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.genruntimeconfig.cache
+D:\SEMESTER 2\Assignment\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.csprojAssemblyReference.cache
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.exe
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.deps.json
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.runtimeconfig.json
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.runtimeconfig.dev.json
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.dll
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\bin\Debug\net5.0-windows\MockOne.pdb
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\Home.g.cs
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\ReplaceBooks.g.cs
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\Rules_Replace.g.cs
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne_MarkupCompile.cache
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne_MarkupCompile.lref
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\Home.baml
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\ReplaceBooks.baml
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\Rules_Replace.baml
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.g.resources
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.AssemblyInfo.cs
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.dll
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\refint\MockOne.dll
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.pdb
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.genruntimeconfig.cache
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\ref\MockOne.dll
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\IdentifyAreas.g.cs
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\IdentifyAreas.baml
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\FindCallNumbers.g.cs
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\Rules_Identify.g.cs
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\FindCallNumbers.baml
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\Rules_Identify.baml
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\Rules_Find.g.cs
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\Rules_Find.baml
+C:\Users\lab_services_student\PROG7312 POE\MockOne\MockOne\obj\Debug\net5.0-windows\MockOne.csproj.CopyComplete
+D:\Downloads\prog7312-poe-MelchiVC-main (1)\prog7312-poe-MelchiVC-main\obj\Debug\net5.0-windows\MockOne.dll
+D:\Downloads\prog7312-poe-MelchiVC-main (1)\prog7312-poe-MelchiVC-main\obj\Debug\net5.0-windows\ref\MockOne.dll
+D:\Downloads\prog7312-poe-MelchiVC-main (1)\prog7312-poe-MelchiVC-main\obj\Debug\net5.0-windows\MockOne.pdb

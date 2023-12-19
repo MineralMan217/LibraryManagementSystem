@@ -1,0 +1,139 @@
+﻿<Window x:Class="MockOne.ReplaceBooks"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MockOne"
+        mc:Ignorable="d"
+        Title="REPLACING BOOKS" Height="450" Width="800" Loaded="Window_Loaded">
+    <Window.Background>
+        <ImageBrush ImageSource="/resources/general_bg.jpg" Opacity="0.35"/>
+    </Window.Background>
+    <Window.Resources>
+        <Style x:Key="RoundButtonStyle" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border" Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="1"
+                                CornerRadius="25" Padding="5">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Button x:Name="backButton" Width="51" Click="backButton_Click" HorizontalAlignment="Left" Margin="-2,20,0,347" >
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+            <Button.Content>
+                <Image  x:Name="backImg" Source="\resources\back-button.png"  Stretch="Uniform" Height="44" Width="39" RenderTransformOrigin="0.614,0.5"/>
+            </Button.Content>
+
+        </Button>
+        <Label x:Name="backLbl" Content="BACK" FontSize="16px" Foreground="White"  FontWeight="ExtraBold" HorizontalAlignment="Left" Margin="49,24,0,0" VerticalAlignment="Top" Height="36" Width="64"/>
+        <Button x:Name="startReplaceButton" Content="PLAY" HorizontalAlignment="Left" VerticalAlignment="Top" Width="104" Height="50"
+               Background="#120307" BorderBrush="#941739" Foreground="White" FontSize="18" FontWeight="Bold" Style="{StaticResource RoundButtonStyle}" Click="startReplaceButton_Click" Margin="180,23,0,0">
+            <Button.RenderTransform>
+                <TranslateTransform/>
+            </Button.RenderTransform>
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Click">
+                    <BeginStoryboard>
+                        <Storyboard RepeatBehavior="Forever">
+                            <DoubleAnimation Storyboard.TargetProperty="(Button.RenderTransform).(TranslateTransform.X)" From="-10" To="0" Duration="0:0:0.5" AutoReverse="True" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+        </Button>
+
+        <Button x:Name="reorderButton" Content="REORDER" HorizontalAlignment="Left" VerticalAlignment="Top" Width="111" Height="55" Visibility="Hidden"
+               Background="#120307" BorderBrush="#941739" Foreground="White" FontSize="18" FontWeight="Bold" Style="{StaticResource RoundButtonStyle}" 
+                Click="reorderButton_Click" Margin="307,20,0,0">
+            <Button.RenderTransform>
+                <TranslateTransform/>
+            </Button.RenderTransform>
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Click">
+                    <BeginStoryboard>
+                        <Storyboard RepeatBehavior="Forever">
+                            <DoubleAnimation Storyboard.TargetProperty="(Button.RenderTransform).(TranslateTransform.X)" From="-10" To="0" Duration="0:0:0.5" AutoReverse="True" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+        </Button>
+
+
+        <Button x:Name="checkButton" Content="CHECK" HorizontalAlignment="Left" VerticalAlignment="Top" Width="111" Height="55" Visibility="Hidden"
+                Background="#120307" BorderBrush="#941739" Foreground="White" FontSize="18" FontWeight="Bold" Style="{StaticResource RoundButtonStyle}" 
+                Click="checkButton_Click" Margin="437,21,0,0">
+            <Button.RenderTransform>
+                <TranslateTransform/>
+            </Button.RenderTransform>
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Click">
+                    <BeginStoryboard>
+                        <Storyboard RepeatBehavior="Forever">
+                            <DoubleAnimation Storyboard.TargetProperty="(Button.RenderTransform).(TranslateTransform.X)" From="-10" To="0" Duration="0:0:0.5" AutoReverse="True" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+        </Button>
+        <Label x:Name="timerLabel" Content="TIME LEFT: 80  seconds" FontSize="16px" Foreground="White" FontWeight="ExtraBold" HorizontalAlignment="Left" Margin="559,72,0,0" VerticalAlignment="Top" Height="36" Width="219"/>
+
+        <Label x:Name="pointsLabel" Content="SCORE: 0" FontSize="16px" Foreground="White" FontWeight="ExtraBold" HorizontalAlignment="Left" Margin="562,111,0,0" VerticalAlignment="Top" Height="36" Width="137"/>
+
+
+        <Label x:Name="arrangeLabel" Content="Arrange the unordered call numbers(ON THE LEFT) in asecending order:" Visibility="Hidden"  FontSize="13px" Foreground="White" HorizontalAlignment="Left" Margin="24,111,0,0" VerticalAlignment="Top" Height="36" Width="424"/>
+
+        <!-- ListBox -->
+        <ListBox x:Name="originalListBox" Grid.Row="1" Margin="10,166,546,9" d:ItemsSource="{d:SampleData ItemCount=5}" FontSize="13" BorderBrush="White" Foreground="White">
+            <ListBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF833030" Offset="1"/>
+                </LinearGradientBrush>
+            </ListBox.Background>
+            <!-- ListBox ItemTemplate -->
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding}" />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+
+        <!-- ListView for displaying user-ordered call numbers -->
+        <ListView x:Name="orderedListView" Margin="266,165,118,11" BorderBrush="White" Foreground="White">
+            <ListView.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF135026" Offset="1"/>
+                </LinearGradientBrush>
+            </ListView.Background>
+            <!-- ListView View -->
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn  Header="ARRANGE THESE CALL NUMBERS IN ASCENDING ORDER" Width="306px" DisplayMemberBinding="{Binding}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+
+        <Button x:Name="quitButton" Content="QUIT" HorizontalAlignment="Left" VerticalAlignment="Top" Width="80" Height="29"
+               Background="Khaki"  BorderBrush="#941739" Foreground="#271F1F" FontSize="18" FontWeight="Bold"  Click="quitButton_Click" Margin="687,353,0,0">
+
+        </Button>
+    </Grid>
+</Window>

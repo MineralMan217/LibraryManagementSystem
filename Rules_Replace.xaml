@@ -1,0 +1,82 @@
+﻿<Window x:Class="MockOne.Rules_Replace"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MockOne"
+        mc:Ignorable="d"
+        Title="RULES FOR REPLACING BOOKS" Height="450" Width="800"  Loaded="Window_Loaded">
+    <Window.Background>
+        <ImageBrush ImageSource="/resources/general_bg.jpg" Opacity="0.2"/>
+    </Window.Background>
+    <Window.Resources>
+        <Style x:Key="RoundButtonStyle" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border" Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="1"
+                                CornerRadius="25" Padding="5">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value=" #120307"/>
+                                <Setter TargetName="border" Property="BorderBrush" Value="#941739"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Button x:Name="backButton" Width="51" Click="backButton_Click" HorizontalAlignment="Left" Margin="0,-6,0,373" >
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+            <Button.Content>
+                <Image  x:Name="backImg" Source="\resources\back-button.png"  Stretch="Uniform" Height="36" Width="26" RenderTransformOrigin="0.614,0.5"/>
+            </Button.Content>
+        </Button>
+        <Label x:Name="rulesLabel" Content="Instructions:" FontSize="19px" Foreground="White" FontWeight="Bold" HorizontalAlignment="Left" Margin="56,30,0,0" VerticalAlignment="Top" Height="36" Width="186"/>
+        <Label x:Name="rule1Label" Content="1. Press *PLAY* to start the game and populate both tables with random Call Numbers" FontSize="13px" Foreground="White" FontWeight="Bold" HorizontalAlignment="Left" Margin="34,66,0,0" VerticalAlignment="Top" Height="36" Width="553"/>
+        <TextBlock x:Name="rule1Description" Text=" (this will populate both tables one table is for unordered call numbers, and the other is for reordering them)" FontSize="13px" Foreground="SkyBlue" FontWeight="Bold" HorizontalAlignment="Left" Margin="48,102,0,0" VerticalAlignment="Top" Height="19" Width="669"/>
+
+        <Label x:Name="rule2Label" Content="2. Press *REORDER* to shuffle/reorder the Call Numbers so that they are in ascending order (numerically)" FontSize="13px" Foreground="White" FontWeight="Bold" HorizontalAlignment="Left" Margin="34,142,0,0" VerticalAlignment="Top" Height="30" Width="656"/>
+        <TextBlock x:Name="rule2Description" Text=" (press this button (x) many times until you are satisfied that the call numbers are in order. repeat this cycle)" FontSize="13px" Foreground="SkyBlue" FontWeight="Bold" HorizontalAlignment="Left" Margin="48,172,0,0" VerticalAlignment="Top" Height="24" Width="681"/>
+
+        <Label x:Name="rule3Label" Content="3. After Reordering, press *CHECK* to check if the reordered Call Numbers are in ascending order" FontSize="13px" Foreground="White" FontWeight="Bold" HorizontalAlignment="Left" Margin="34,217,0,0" VerticalAlignment="Top" Height="30" Width="656"/>
+        <TextBlock x:Name="rule3Description" Text=" (press this button every time you are satisfied that the call numbers are in ascending order)" FontSize="13px" Foreground="SkyBlue" FontWeight="Bold" HorizontalAlignment="Left" Margin="48,247,0,0" VerticalAlignment="Top" Height="22" Width="621"/>
+        <TextBlock x:Name="rule4Description" Text=" (whether or not your order is correct after *CHECKING*, you must keep *REORDERING* until your time runs out)" FontSize="13px" Foreground="SkyBlue" FontWeight="Bold" HorizontalAlignment="Left" Margin="27,274,0,0" VerticalAlignment="Top" Height="28" Width="723"/>
+        <TextBlock x:Name="rule5Description" Text=" (ARRANGE THE CALL NUMBERS GAME)" FontSize="13px" Foreground="Khaki" FontWeight="Bold" HorizontalAlignment="Left" Margin="268,30,0,0" VerticalAlignment="Top" Height="28" Width="251"/>
+
+
+        <TextBlock x:Name="generalRule1" Text="*TIMER (80 SECONDS) STARTS AS SOON AS YOU PRESS PLAY*" FontSize="12px" Foreground="Khaki" FontWeight="Bold" HorizontalAlignment="Left" Margin="10,342,0,0" VerticalAlignment="Top" Height="18" Width="384"/>
+        <TextBlock x:Name="generalRule2" Text="*IF CALL NUMBER ORDER IS CORRECT, THAT'S +15 POINTS*" FontSize="12px" Foreground="Khaki" FontWeight="Bold" HorizontalAlignment="Left" Margin="10,365,0,0" VerticalAlignment="Top" Height="18" Width="384"/>
+        <TextBlock x:Name="generalRule3" Text="*IF CALL NUMBER ORDER IS INCORRECT, THAT'S -4 POINTS*" FontSize="12px" Foreground="Khaki" FontWeight="Bold" HorizontalAlignment="Left" Margin="10,388,0,0" VerticalAlignment="Top" Height="18" Width="384"/>
+
+
+        <Button x:Name="playNowBtn" Content="PLAY NOW" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Height="50"
+                Opacity="0" Background="Black" Foreground="White" FontSize="16" Style="{StaticResource RoundButtonStyle}" Click="playNowBtn_Click" Margin="505,342,0,0">
+            <Button.RenderTransform>
+                <TranslateTransform/>
+            </Button.RenderTransform>
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Loaded">
+                    <BeginStoryboard>
+                        <Storyboard RepeatBehavior="Forever">
+                            <DoubleAnimation Storyboard.TargetProperty="Opacity" From="0" To="1" Duration="0:0:1" />
+                            <DoubleAnimation Storyboard.TargetProperty="(Button.RenderTransform).(TranslateTransform.Y)" From="0" To="-28" Duration="0:0:0.5" AutoReverse="True" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+        </Button>
+
+    </Grid>
+</Window>

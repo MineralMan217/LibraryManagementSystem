@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <StartupObject>MockOne.App</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="main.jpg" />
+    <None Remove="resources\back-button.png" />
+    <None Remove="resources\call_number.jpg" />
+    <None Remove="resources\find-call-numbers.png" />
+    <None Remove="resources\general_bg.jpg" />
+    <None Remove="resources\home2.jpeg" />
+    <None Remove="resources\home_bg.jpg" />
+    <None Remove="resources\identify-areas.png" />
+    <None Remove="resources\library-icon.png" />
+    <None Remove="resources\lib_bg.png" />
+    <None Remove="resources\main2.jpg" />
+    <None Remove="resources\replace-books.jpg" />
+    <None Remove="resources\replace-books.png" />
+    <None Remove="resources\shelf.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="resources\back-button.png" />
+    <Resource Include="resources\call_number.jpg" />
+    <Resource Include="resources\find-call-numbers.png" />
+    <Resource Include="resources\general_bg.jpg" />
+    <Resource Include="resources\home2.jpeg" />
+    <Resource Include="resources\home_bg.jpg" />
+    <Resource Include="resources\identify-areas.png" />
+    <Resource Include="resources\library-icon.png" />
+    <Resource Include="resources\lib_bg.png" />
+    <Resource Include="resources\main2.jpg" />
+    <Resource Include="resources\replace-books.jpg" />
+    <Resource Include="resources\replace-books.png" />
+    <Resource Include="resources\shelf.jpeg" />
+  </ItemGroup>
+
+</Project>
